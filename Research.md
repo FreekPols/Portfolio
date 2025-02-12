@@ -1,8 +1,13 @@
 # Research
 
-Chapter divided  in... 
+Chapter divided in one main strand that I want to focus on in my own research. 
 
 
+- Eigen onderzoekslijn
+    * Rol van argumentatie in science (education)
+    * Focus veelal op structuur, niet op inhoud
+    * Practicumdidactiek & data-analyse
+    * Rol van technologie, niet an-sich maar in content.
 ## Research into the integration of argumentation in science & engineering education
 
 Argumentation is at the core of scientific practice. It is the means by which scientists construct, justify, and communicate knowledge, ensuring that claims are rigorously tested and defended. From formulating hypotheses to interpreting data, from engaging in peer review to debating theoretical frameworks, argumentation permeates every aspect of scientific inquiry. Without it, science would not function as a self-correcting, evidence-based discipline.
@@ -48,25 +53,35 @@ These knowledge types are not yet identified for ED and thus need an elaborate t
 we aim to construct a theoretical framework, (PACKED-model) that links the various knowledge types to the stages of the design process. Related to kennisagenda theme 1 (NRO, 2022), we aim to derive a tentative set of knowledge types using literature- and field studies. Using these knowledge types, we will derive so-called field-dependent elements (Toulmin, 2003), which are the standards for judging the soundness, validity, cogency or strength of arguments. To propose, validate and test an approach to derive the presence and attainment level for these understandings, we adapt the modified Delphi approach (Hsu & Sandford, 2007) as used in (Pols et al., 2022).
 Subsequently, using the central question:
 • How does the theoretical framework and a focus on argumentation facilitate teachers to design ED teaching-materials?
-we will involve secondary school pre-service teachers in our teacher-education program and in-service teachers in a professional learning community (DuFour, 2004) to use the theoretical construct and derive design principles to design teaching materials and test these in their own practices. Using education design research (Van den Akker et al., 2006), we investigate the teacher’s use of the framework and its facilitation in designing lessons (NRO, 2022, p. 17 Theme 1, Gamechanger 8; Theme 5).
+we will involve secondary school pre-service teachers in our teacher-education program and in-service teachers in a professional learning community (DuFour, 2004) to use the theoretical construct and derive design principles to design teaching materials and test these in their own practices. Using education design research (Van den Akker et al., 2006), we investigate the teacher’s use of the framework and its facilitation in designing lessons.
 The developed materials will be arranged in a coherent teaching-learning sequence, where we emphasizes throughout the need for integrating argumentation and ED: each and every design decisions should be justifiable in light of producing the best available solution within certain practical constraints (finance, time, knowledge). Using the central question:
 • What does integrating argumentation in teaching engineering design contribute to student understanding, critical
 
+## Supervising
 
-- Eigen onderzoekslijn
-    * Rol van argumentatie in science (education)
-    * Focus veelal op structuur, niet op inhoud
-    * Practicumdidactiek & data-analyse
-    * Rol van technologie, niet an-sich maar in content.
+As a faculty member in Applied Physics with a research focus on physics education, my work bridges the gap between fundamental physics and the scholarship of teaching and learning. My research aims to enhance physics education by integrating inquiry-based learning, argumentation, and conceptual understanding into instructional practices.
+
+One of the challenges in this field is the limited availability of large-scale funding opportunities that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. Despite these constraints, I have actively pursued funding opportunities and have been committed to supervising and mentoring researchers in this domain.
+
+In addition to my own research endeavors, I play a significant role in supporting assistant professors and colleagues who wish to investigate their own teaching practices. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
+
+My leadership in this area strengthens the faculty's commitment to high-quality physics education and enhances our collective ability to contribute to the field. By fostering an environment where research-based teaching improvements are systematically explored and documented, I am actively shaping the future of physics education both within our faculty and beyond.
+
 - Begeleiden
     * Pleun
     * Rutger
     * Wim B. 
     * Cees H.
     * Margreet D. 
+
+### Review
+
+
 - Reviewen
     * GIREP
     * SOTL
     * NRO Klein
     * ...
     * IDEE
+    * PRPER
+    * Phys ed

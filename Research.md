@@ -8,6 +8,7 @@ Chapter divided in one main strand that I want to focus on in my own research.
     * Focus veelal op structuur, niet op inhoud
     * Practicumdidactiek & data-analyse
     * Rol van technologie, niet an-sich maar in content.
+
 ## Research into the integration of argumentation in science & engineering education
 
 Argumentation is at the core of scientific practice. It is the means by which scientists construct, justify, and communicate knowledge, ensuring that claims are rigorously tested and defended. From formulating hypotheses to interpreting data, from engaging in peer review to debating theoretical frameworks, argumentation permeates every aspect of scientific inquiry. Without it, science would not function as a self-correcting, evidence-based discipline.
@@ -46,7 +47,7 @@ Engaging secondary school students in ED can enhance their real-world problem so
 Although it plays a central role in science curricula (Council;, 2012; Feder et al., 2009; Pieters, 2022) and has a (potential) function in education, the teaching and learning of ED is problematic in various ways and the development of pedagogical approaches for ED fails to match EDs importance (Van Dooren, 2020). Students – at all levels – often struggle with ED when prerequisite design knowledge is not identified and developed timely. They tend to focus exclusively on the first idea that comes to mind without considering alternatives – known as design fixation (Jansson & Smith, 1991). Once the design is fully developed and a prototype built, the design choices are justified in retrospect (post hoc), only because assessment procedures demand it. Proper ED, however, requires that conscious, deliberate choices are made throughout the design process in order to justify the design (van Kuijk, 2024). Instead, as an expert design teacher stated: “We seem to teach our students how to come up with rationales for their designs on the spot.”
 One of the main problems is that ED is often taught by educators with limited design experience (pre-tertiary level) or by design experts (tertiary level) who frequently lack pedagogical training or possess only implicit understanding of the practices and knowledge they apply (Lawson, 2006; Van Dooren, 2020). This dichotomy hinders effective teaching, leading some teachers to skip ED altogether, or to present it as an undifferentiated whole, rather than addressing specific aspects before applying them in an integrated manner (Stammes et al., 2020). Hence, for teaching ED at all levels a theoretical framework is essential for elucidating the intricacies of engineering design, explicating the requisite knowledge, and optimizing instructional approaches. In the related field of teaching scientific inquiry, a sequenced, argumentation focused (knowing what, knowing how, and knowing why) approach yielded an enhanced understanding of scientific practice and encourages students to develop personal reasons for adhering to scientific criteria (Pols et al., 2023). We see opportunities for extending this approach to ED pedagogy and ‘uncover’ the yet unexplored area of integrating argumentation and ED.
 
-ED, although often seen as particularly a creative discipline, should be considered a knowledge based activity, where more pertinent knowledge leads to better solutions. As in scientific inquiry, we believe that it should be possible to create a procedural and conceptual knowledge in science (PACKS) model that distinguishes different knowledge types that inform the decisions taken in various stages (Millar et al., 1994). Unravelling the knowledge types allows to teach these in (mere) isolation -reducing and focussing the cognitive demand- before integrating these. These knowledge types include the idea that only the best solution (in the given circumstances) suffices, and understandings of what characterises solutions that engineers regard as ‘best’, what understandings contribute to that evaluation, and how those solutions can be produced. Without these understandings, students may regard ED as ‘find a solution to the design problem, any solution will do’ prevents students from adopting and adhering to the norms and standards designers apply in their work.
+ED, although often seen as particularly a creative discipline, should be considered a knowledge based activity, where more pertinent knowledge leads to better solutions. As in scientific inquiry, we believe that it should be possible to create a procedural and conceptual knowledge in science (PACKS) model that distinguishes different knowledge types that inform the decisions taken in various stages (Millar et al., 1994). Unravelling the knowledge types allows to teach these in (mere) isolation -reducing and focussing the cognitive demand- before integrating these. These knowledge types include the idea that only the best solution (in the given circumstances) suffices, and understandings of what characterizes solutions that engineers regard as ‘best’, what understandings contribute to that evaluation, and how those solutions can be produced. Without these understandings, students may regard ED as ‘find a solution to the design problem, any solution will do’ prevents students from adopting and adhering to the norms and standards designers apply in their work.
 These knowledge types are not yet identified for ED and thus need an elaborate theoretical framework that elucidates the intricacies of engineering design. Using the central questions:
 • What are the understandings required to successfully design, conduct, and evaluate an engineering design?
 • What are the characteristics of a valid, reliable, sufficiently specific, and detailed assessment of students’ understanding in engineering design?
@@ -57,31 +58,19 @@ we will involve secondary school pre-service teachers in our teacher-education p
 The developed materials will be arranged in a coherent teaching-learning sequence, where we emphasizes throughout the need for integrating argumentation and ED: each and every design decisions should be justifiable in light of producing the best available solution within certain practical constraints (finance, time, knowledge). Using the central question:
 • What does integrating argumentation in teaching engineering design contribute to student understanding, critical
 
+## Open Education
+iets over nieuwe wereld van OE, en de vele vraagstukken die er zijn. d eprojecten die er lopen, zowel op TUD als met twente. Ontwikkeling en onderzoek hand in hand.
+
 ## Supervising
 
-As a faculty member in Applied Physics with a research focus on physics education, my work bridges the gap between fundamental physics and the scholarship of teaching and learning. My research aims to enhance physics education by integrating inquiry-based learning, argumentation, and conceptual understanding into instructional practices.
+As a faculty member in Applied Physics with a research focus on physics education, my work bridges the gap between fundamental physics and the scholarship of teaching and learning. My research aims  especially on enhancing physics education by integrating inquiry learning, argumentation, and conceptual understanding into instructional practices.
 
-One of the challenges in this field is the limited availability of large-scale funding opportunities that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. Despite these constraints, I have actively pursued funding opportunities and have been committed to supervising and mentoring researchers in this domain.
+One of the challenges in this field is the limited availability of large-scale funding opportunities that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. There are research grants for education, but these foremost are focussed on education in general - resulting in a very divers field of applicants and reviewers (not aware of the issue in a specific educational domain). Despite these constraints, I have actively pursued funding opportunities and have been committed to supervising and mentoring researchers in this domain.
 
-In addition to my own research endeavors, I play a significant role in supporting assistant professors and colleagues who wish to investigate their own teaching practices. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
+In addition to my own research endeavors, I (try to) play a  role in supporting assistant/associate professors (Wim Bouwman,Cees Haringa) and colleagues (Pleun Hermsen, Margreet Docter, Rutger Ockhorst) who wish to investigate their own teaching practices. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
 
 My leadership in this area strengthens the faculty's commitment to high-quality physics education and enhances our collective ability to contribute to the field. By fostering an environment where research-based teaching improvements are systematically explored and documented, I am actively shaping the future of physics education both within our faculty and beyond.
 
-- Begeleiden
-    * Pleun
-    * Rutger
-    * Wim B. 
-    * Cees H.
-    * Margreet D. 
 
 ### Review
-
-
-- Reviewen
-    * GIREP
-    * SOTL
-    * NRO Klein
-    * ...
-    * IDEE
-    * PRPER
-    * Phys ed
+I have been actively involved in review work for scientific journals ([PRPER](https://journals.aps.org/prper/)), professional journals ([phys. ed.](https://iopscience.iop.org/journal/0031-9120)), conference proposals ([GIREP](https://www.girep.org/)), Dutch research proposals ([SoTL](https://www.nro.nl/onderzoeksprogrammas/scholarship-of-teaching-and-learning-sotl-beurs) & [NRO klein](https://www.nro.nl/calls/kennis-voor-onderwijs-van-de-toekomst-klein))

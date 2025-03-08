@@ -1,6 +1,6 @@
 # Education
 
-Reflecting on educating, I must have more than 25 years of experience with teaching. I think one of my first accounts with teaching is instructing sailing at an age of 14. When I was 16, I became an instructor in the Martial Art (Pencak Silat) that I was practicing. In hindsight, it thus seemed to be a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters.
+Reflecting on educating, I must have more than 25 years of experience with teaching. I think one of my first accounts with teaching is instructing sailing at an age of 14. When I was 16, I became an instructor in the Martial Art (Pencak Silat) that I was practicing. In hindsight, it thus seemed to be a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters. I have been teaching physics in secondary school for ten years (2009-2019). In 2014 I was granted the scholarship for ... allowing me to do a PhD. on teaching scientific inquiry in physics {cite:p}`pols2023development`. 
 
 On my own education. not reached the limits. Set an example to pupils: continue learning.
 

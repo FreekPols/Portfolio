@@ -1,22 +1,10 @@
 # Education
 
-Reflecting on educating, I must have more than 25 years of experience with teaching. I think one of my first accounts with teaching is instructing sailing at an age of 14. When I was 16, I became an instructor in the Martial Art (Pencak Silat) that I was practicing. In hindsight, it thus seemed to be a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters. I have been teaching physics in secondary school for ten years (2009-2019). In 2014 I was granted the scholarship for ... allowing me to do a PhD. on teaching scientific inquiry in physics {cite:p}`pols2023development`. 
+Reflecting on educating, I must have more than 25 years of experience with teaching. I think one of my first accounts with teaching is instructing sailing at an age of 14. When I was 16, I became an instructor in the Martial Art (Pencak Silat) that I was practicing. In hindsight, it thus seemed to be a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters. I have been teaching physics in secondary school for ten years (2009-2019). 
 
-On my own education. not reached the limits. Set an example to pupils: continue learning.
+With the idea that I had not reached my educational limits, and to be an example to my pupils that one always can learn more, I applied for [NWO Doctoral Grant for Teachers](https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren). This grant was awarded in 2014 allowing me to do a PhD. (0.4 FTE - 5 years) on teaching scientific inquiry in physics {cite:p}`pols2023development`. 
 
-## Characteristics
-
-
-
-- Innovatie
-    1. niet alleen technologie centered
-    1. didactiek
-- Belangrijkste
-    1. niet het trucje leren, maar het principe
-- Courses
-
-- Transforming education
-    1. Inspiring others
+In 2019 I switched from secondary education to university, becoming the coordinator of the First Year Physics Lab Course (FYPLC), which I still am.
 
 
 ## Innovating lab courses
@@ -119,3 +107,16 @@ The NP has contributed to both **scientific and educational publications** and h
 6. Phys Ed. One setup
 
 7. ...
+## Characteristics
+
+
+
+- Innovatie
+    1. niet alleen technologie centered
+    1. didactiek
+- Belangrijkste
+    1. niet het trucje leren, maar het principe
+- Courses
+
+- Transforming education
+    1. Inspiring others

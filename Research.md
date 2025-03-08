@@ -73,4 +73,13 @@ My leadership in this area strengthens the faculty's commitment to high-quality 
 
 
 ### Review
-I have been actively involved in review work for scientific journals ([PRPER](https://journals.aps.org/prper/)), professional journals ([phys. ed.](https://iopscience.iop.org/journal/0031-9120)), conference proposals ([GIREP](https://www.girep.org/)), Dutch research proposals ([SoTL](https://www.nro.nl/onderzoeksprogrammas/scholarship-of-teaching-and-learning-sotl-beurs) & [NRO klein](https://www.nro.nl/calls/kennis-voor-onderwijs-van-de-toekomst-klein))
+I have been actively involved in review work for scientific journals ([PRPER](https://journals.aps.org/prper/)), professional journals ([phys. ed.](https://iopscience.iop.org/journal/0031-9120)), conference proposals ([GIREP](https://www.girep.org/)), Dutch research proposals ([SoTL](https://www.nro.nl/onderzoeksprogrammas/scholarship-of-teaching-and-learning-sotl-beurs) & [NRO klein](https://www.nro.nl/calls/kennis-voor-onderwijs-van-de-toekomst-klein)).
+
+After following a training at the Institute of Physics, and reviewing for IoP's physics education, I became an IoP's trusted reviewer.
+
+```{figure} iop.PNG
+:width: 50%
+:align: center
+
+[Certificate of IoP's trusted reviewer](https://accreditations.ioppublishing.org/cddd8ece-c4ab-4fa8-836f-04381bd95a7e#acc.b9kdGBu8)
+```

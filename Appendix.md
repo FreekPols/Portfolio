@@ -3,26 +3,32 @@
 (Courses)=
 ## Courses 
 
-**2019-  TN1405: Inleidend practicum (coordinator)**<br>
+**2019-now**  
+**TN1405: Inleidend practicum (coordinator)**  
 The first year physics lab course (6ECTS ~240 students) aims at introducing students to the basics of experimental physics.
 
-**2019- TN2985: Introduction to experiments in physics(coordinator)**<br>
+**TN2985: Introduction to experiments in physics(coordinator)**  
 This course (2ECTS ~40 students) introduces students how opted for the minor in physics to the basics of experimental physics.
 
-**2023-2024 WM0318 Wetenschaps- & argumentatieleer (lecturer)**<br>
+**2023&2024 WM0318 Wetenschaps- & argumentatieleer (lecturer)**  
 This course introduces the students to the philosophy of science (Nature of Science). In various sessions they discuss their standpoints regarding statements that are introduced in articles. They thereby explore their own views on the nature of science.
 
-**2022-Now SL4310 Vakdidactiek verdieping (guest lecturer ICT)**<br>
+**2022-Now** 
+**SL4310 Vakdidactiek verdieping (guest lecturer ICT)**  
 In this lecture I introduce the students to the use of four different ICT tools which can be used in the classroom.
 
-**2022- SL4220 Vakdidactiek basis Natuurkunde/Scheikunde (guest lecturer practicum)**<br>
+**SL4220 Vakdidactiek basis Natuurkunde/Scheikunde (guest lecturer practicum)**  
 In this lecture I teach the basics of the pedagogy of practical work.
 
-**2023- SL4301 Implementatie van onderwijs (guest lecturer practicum Online textbooks & escaperooms)**<br>
+**2023- SL4301 Implementatie van onderwijs (guest lecturer practicum Online textbooks & escaperooms)**  
 In this course students are introduced to relevant ideas and materials that they can use in their own teaching practices. I introduce them to the use of escaperooms and the use of open online interactive books.
 
-Master thesis Farah
-Master thesis Diana
+## Supervision
+20XX Master Thesis Diana
+
+2024 Master Thesis Farah Kidwai: De SGO met perspectiefvragen - Een ontwerponderzoek naar het bevorderen van micro-macro denken in de scheikunde begripspracticumles
+
+2025 Stage
 
 (Research_ouput)=
 ## Research output
@@ -440,3 +446,4 @@ https://polslab.tnw.tudelft.nl/index.php?page=Conferences
 | 2025 | Building Thinking Classrooms in Wiskunde-, Natuurkunde- en Scheikundeonderwijs | NRO: Kennis voor de toekomst, Middel | X |  |
 | 2025 | Student-Centred Learning with AI Tutors in Project Work | TUD: AI-Augmented Engineering Education | V | X |
 | 2025 | Jupyter Books for education & open publishing: Next Level | TUD Open Science Fund | X | V |
+| 2025 | Doe de Fysica | Betadecanen | V | |

@@ -1,17 +1,14 @@
 # Research
 
-Chapter divided in one main strand that I want to focus on in my own research. 
-
 ## Research into the integration of argumentation in science & engineering education
 
 Argumentation is at the core of scientific practice. It is the means by which scientists construct, justify, and communicate knowledge, ensuring that claims are rigorously tested and defended. From formulating hypotheses to interpreting data, from engaging in peer review to debating theoretical frameworks, argumentation permeates every aspect of scientific inquiry. Without it, science would not function as a self-correcting, evidence-based discipline.
 
-Scientific argumentation is more than just a method of presenting findings — it is an essential cognitive process in conducting research. A scientific investigation does not merely seek to gather data; it aims to construct a compelling and well-supported claim based on that data​. This requires reasoning systematically, evaluating alternative explanations, and providing justification for methodological choices. The {cite:t}`Toulmin2003` model of argumentation has been widely used to describe this structure, emphasizing key components such as claims, warrants, and backing, which form the foundation of a cogent scientific argument​.
+The {cite:t}`Toulmin2003` model of argumentation has been widely used to describe this structure, emphasizing key components such as claims, warrants, and backing, which form the foundation of a cogent scientific argument​. However, scientific argumentation is more than just a method of presenting findings in a scientific journal in which all elements of the Toulmin argumentation are recognizable — it is an essential cognitive process in conducting research, the crucial element in the entire scientific endeavour. A scientific investigation does not merely seek to gather data; it aims to construct a compelling and well-supported claim based on that data​. This requires reasoning systematically, evaluating alternative explanations, and providing justification for methodological choices. 
 
-A fundamental aspect of scientific argumentation is its role in inquiry and in engineering design. In the process of conducting research and designing technological solution, scientists and engineers do not passively record observations or build prototypes from scratch; they actively engage in constructing an argument that supports their conclusions/solution. This involves critically assessing evidence, scrutinizing methodologies,  weighing pros and cons for different solutions to each decision they have to make, and anticipating potential counterarguments​.
+Scientific argumentation thus plays a fundamental role in science, especially in inquiry and in engineering design. In the process of conducting research and designing technological solution, scientists and engineers do not passively record observations or build prototypes from scratch; they actively engage in constructing an argument that supports their conclusions/solution. This involves critically assessing evidence, scrutinizing methodologies, weighing pros and cons for different solutions to each decision they have to make, and anticipating potential counterarguments​.
 
 In education, fostering argumentation skills is crucial for developing students' ability to engage in scientific reasoning. Research shows that many students view scientific inquiry as a mechanical process of following procedures rather than as a means of constructing and defending knowledge​. By integrating argumentation into science curricula, educators can shift students' perspectives, helping them understand that science is about producing the most reliable and defensible answers to research questions, rather than merely completing experiments.
-
 
 ### Integration of argumentation and scientific inquiry
 

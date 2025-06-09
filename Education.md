@@ -6,6 +6,11 @@ With the idea that I had not reached my educational limits, and to be an example
 
 In 2019 I switched from secondary education to university, becoming the coordinator of the First Year Physics Lab Course (FYPLC), which I still am.
 
+## Curriculum
+projecten
+verbinding math & phys
+boek mechanica.
+verbinden Q1 & Q2
 
 ## Innovating lab courses
 On March 1, 2019, I started my position at TU Delft as a lecturer/innovator for the physics lab courses (PLC). The assignment given by Prof. Chris Kleijn (then program director) had three objectives:  
@@ -93,7 +98,7 @@ The NP has contributed to both **scientific and educational publications** and h
 1. **A Physics Lab Course in Times of COVID-19** *(peer-reviewed article on adapting to home-based practicum)*  
    - [Read here](https://ejrsme.icrsme.com/article/view/20276)  
 
-2. **Students' Report on an Open Inquiry** *(Physics education research paper)*  
+2. **Students' Report on an Open Inquiry** *(Physics education research paper)* [](10.1088/1361-6552/ac27f8)
    - DOI: 10.1088/1361-6552/ac27f8  
 
 3. **GIREP Symposium** *(Comparison of practicum courses across four universities)*  
@@ -102,11 +107,13 @@ The NP has contributed to both **scientific and educational publications** and h
 4. **Pre-University On-Campus Tracks** *(Engagement program for high school students)*  
    - [More info](https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/voorlichting-bachelor/tu-delft-pre-university-programme/pre-university-on-campus-tracks/natuurkundig-practicum-bepaling-van-g)
 
-5. PRPER
+5. **PRPER** *(Redesigning a first year physics lab course on the basis of the procedural
+and conceptual knowledge in science model)* [](10.1103/PhysRevPhysEducRes.20.010117)
 
-6. Phys Ed. One setup
+6. **Phys Ed.** *(One setup for many experiments: enabling versatile student-led investigations)* [](10.1088/1361-6552/acfd7b)
 
 7. ...
+
 ## Characteristics
 
 

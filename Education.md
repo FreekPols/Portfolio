@@ -63,13 +63,13 @@ The entire program was revised, reusing existing experiments in a modified form.
 - Revision of grading models.  
 - Introduction of a new practicum on determining *g* with **0.1% accuracy**.  
 
-### **Administrative Adjustments**  
+### Administrative Adjustments 
 
-#### **Summary**  
+#### Summary  
 
 Administration was previously done using a **physical card system**. This has now been fully digitized and largely automated. TAs can now independently input attendance and grades. As a result, administrative staff are now also involved in **DEF 1 & DEF 2**.  
 
-#### **Key Changes**  
+#### Key Changes  
 
 - **Digitization and automation** of tasks.  
 - **Freeing up administrative staff** for other courses.  
@@ -77,13 +77,13 @@ Administration was previously done using a **physical card system**. This has no
 
 ---
 
-### **Teaching Assistants (TAs)**  
+### Teaching Assistants (TAs)
 
-#### **Summary**  
+#### Summary
 
 A **6-ECTS practicum** with around **270 students** cannot function without **TAs**. Active recruitment has been established, based on performance, engagement, and interest during the academic year. Efforts have also been made to **retain TAs longer**, partly through specialized **ITAV training**. The total number of TA hours was reduced by **scaling up**, conducting the same experiments in a **studio classroom**, and **designating one day for centralized (online) instruction**.  
 
-#### **Key Changes**  
+#### Key Changes
 
 - **Active recruitment** during the academic year.  
 - **More targeted didactic and content training**.  
@@ -91,7 +91,7 @@ A **6-ECTS practicum** with around **270 students** cannot function without **TA
 
 ---
 
-### **Scientific Contributions and Outreach**  
+### Scientific Contributions and Outreach
 
 The NP has contributed to both **scientific and educational publications** and has been used to **engage prospective students**. Notable outputs include:  
 

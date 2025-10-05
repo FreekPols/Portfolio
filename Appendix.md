@@ -231,6 +231,13 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
 
 (books)=
 ## Books & Chapters
+*   Broekzakdemos (2025)
+    NVON
+    van den Berg, E & Pols, F
+
+*   Show the physics (2024)  
+    NVON & TUD  
+    Pols, F. & Dekkers, P.J.J.M.
 
 *   ShowdeFysica 3: Natuurkunde laat je zien (2023)  
     NVON  
@@ -240,9 +247,7 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
     NVON  
     Frederik, I., van den Berg, E., te Brinke, L., Dekkers, P., Pols, F., Sonneveld, W., Spaan, W., van Veen, N., van Woerkom, M. 
 
-*   Show the physics (2024)  
-    NVON & TUD  
-    Pols, F. & Dekkers, P.J.J.M.
+
 
 *   Maker education in the applied physics bachelor programme at Delft University of Technology (2023).  
     Chapter in Klapwijk, M., Gu, J., Yang, Q., & de Vries, M. J. Maker Education Meets Technology Education: Reflections on good practices.  
@@ -446,4 +451,8 @@ https://polslab.tnw.tudelft.nl/index.php?page=Conferences
 | 2025 | Building Thinking Classrooms in Wiskunde-, Natuurkunde- en Scheikundeonderwijs | NRO: Kennis voor de toekomst, Middel | X |  |
 | 2025 | Student-Centred Learning with AI Tutors in Project Work | TUD: AI-Augmented Engineering Education | V | X |
 | 2025 | Jupyter Books for education & open publishing: Next Level | TUD Open Science Fund | X | V |
-| 2025 | Doe de Fysica | Betadecanen | V | |
+| 2025 | Doe de Fysica | Betadecanen | V | X |
+| 2025 | | Open Hardware| V | V |
+| 2025 | | Open Science | V | X |
+
+Comenius 2x

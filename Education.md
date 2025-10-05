@@ -1,10 +1,38 @@
 # Education
 
-Reflecting on educating, I must have more than 25 years of experience with teaching. I think one of my first accounts with teaching is instructing sailing at an age of 14. When I was 16, I became an instructor in the Martial Art (Pencak Silat) that I was practicing. In hindsight, it thus seemed to be a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters. I have been teaching physics in secondary school for ten years (2009-2019). 
+Reflecting on educating, I must have more than 25 years of experience with teaching. I think one of my first accounts with teaching is instructing sailing at an age of 14. When I was 16, I became an instructor in the Martial Art (Pencak Silat) that I was practicing. In hindsight, it thus seemed to be a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters. I have been teaching physics in secondary school for ten years (2009-2019).  
 
-With the idea that I had not reached my educational limits, and to be an example to my pupils that one always can learn more, I applied for [NWO Doctoral Grant for Teachers](https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren). This grant was awarded in 2014 allowing me to do a PhD. (0.4 FTE - 5 years) on teaching scientific inquiry in physics {cite:p}`pols2023development`. 
+Recognizing that I probably had not yet reached my full potential and wishing to set an example for my pupils that learning is a lifelong journey, I applied for [NWO Doctoral Grant for Teachers](https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren). This grant was awarded in 2014 allowing me to do a PhD. (0.4 FTE - 5 years) on teaching scientific inquiry in physics {cite:p}`pols2023development`.  
 
-In 2019 I switched from secondary education to university, becoming the coordinator of the First Year Physics Lab Course (FYPLC), which I still am.
+In 2019 I switched from secondary education to university to become the coordinator of the First Year Physics Lab Course (FYPLC) with the task to innovate this course.
+
+In what follows is a list of courses which I taught, innovated or helped innovating.
+
+## Courses 
+
+```{table} Courses taught
+:name: table_courses
+:align: center
+
+| Course code | Course Name | Year | Task |
+| --- | --- | --- | --- |
+| TN13010 | Inleidend practicum 1 | 25 - now | Coordinator |
+| TN13015 | Inleidend practium 2 | 25 - now| Coordinator |
+| TN1405 | Inleidend practicum | 19-25 | Coordinator |
+| TN2985 | Introduction to experiments in physics | 19 - 25 | coordinator
+| WM0318TN | Wetenschap en argumentatieleer | 22-23  | Tutor |
+| SL4301 | Implementatie van onderwijs | 23 - now | Guest lecturer |
+| SL4220 | Vakdidactiek basis | 22 - now | Guest lecturer |
+| SL4320 | Vakdidactiek verdiepend | 22 - now | Guest lecturer |
+```
+
+Hier een samenvatting van bovnestaande
+
+
+DEF
+EI-NB
+
+
 
 ## Curriculum
 projecten

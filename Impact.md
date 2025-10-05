@@ -1,6 +1,8 @@
 # Impact, valorization, leadership, organization
 
 
+https://openbadgefactory.com/v1/assertion/64fea635ba085cb1e5189c1550424b0167786130
+
 
 For some, it is straightforward to distinguish between Impact, valorization, leadership, organization. However, in my case, these dimensions are inherently intertwined due to the nature of my work. My research in physics education, teaching, and the dissemination of both research findings and educational materials create impact, shows leadership, ...
 
@@ -22,6 +24,7 @@ Edudag, cursussen, teachbooks..
 - Python
 - teachbooks en OIT, ontwikkelaar / tester MyST.
 - OER / OCW nieuw platform. 
+- ILM
 
 ## Pre-unviersity
 

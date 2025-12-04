@@ -25,8 +25,10 @@ Edudag, cursussen, teachbooks..
 - teachbooks en OIT, ontwikkelaar / tester MyST.
 - OER / OCW nieuw platform. 
 - ILM
+- jb2 workshop template
+- jb2 plugins etc
 
-## Pre-unviersity
+## Pre-university
 
 
 SoTL Delft 

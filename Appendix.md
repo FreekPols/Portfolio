@@ -2,8 +2,14 @@
 
 (Courses)=
 ## Courses 
+**2025-now** Inleidend practicum 1
+incl mech
 
-**2019-now**  
+**2025-now** Inleidend practicum 2
+incl thermo
+
+
+**2019-2025**  
 **TN1405: Inleidend practicum (coordinator)**  
 The first year physics lab course (6ECTS ~240 students) aims at introducing students to the basics of experimental physics.
 
@@ -456,3 +462,5 @@ https://polslab.tnw.tudelft.nl/index.php?page=Conferences
 | 2025 | | Open Science | V | X |
 
 Comenius 2x
+
+## Software

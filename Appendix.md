@@ -237,7 +237,11 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
 
 (books)=
 ## Books & Chapters
-*   Broekzakdemos (2025)
+* mechanica
+* hoofdstuk onderzoeken
+* hoofdstuk practicumdidactiek
+* 
+*   Broekzakdemos (2026)
     NVON
     van den Berg, E & Pols, F
 
@@ -270,6 +274,11 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
 https://polslab.tnw.tudelft.nl/index.php?page=Conferences
  
 **2025**  
+* jupcon
+* jupcon
+* npuls
+* surf
+* 
 *   Integration of argumentation as prerequisite for effective practical work  
     A presentation on the integration of argumentation and practical work at the ESERA conference, Copenhagen, DK  
     Pols, C.F.J. & Dekkers, P.J.J.M.

@@ -1,0 +1,42 @@
+version: 1
+project:
+  id: 414191ae-bd90-4c39-99fa-70d911b76cbd
+
+  exports:
+    - format: typst
+      template: https://github.com/myst-templates/plain_typst_book.git
+      output: exports/Vision_statement_FP.pdf  
+
+      
+# Include a figure at the cover page
+      # cover: Cover.PNG
+      # coverposition: 5  #in cm from title
+      # cover_width: 8 #in cm
+
+# ToC
+      ToC_depth: 1
+      show_ToC: true
+
+# Page settings
+      #### Logo at top of position
+      logo: figures/logo.png
+      logo_width: 10
+
+      #### Looks
+      papersize: a4
+      margin_top: 2 #cm
+      margin_bottom: 2 #cm
+      margin_left: 10 #%
+      margin_right: 10 #%
+      show_pagenumber: true
+
+      #### Fonts
+      fontsize: 12
+      fontstyle: 
+      linespacing: .5
+      justification: false
+      
+      #### Theme
+      colortheme: blue.darken(30%)
+      colorheadings: navy
+      

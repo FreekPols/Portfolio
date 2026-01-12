@@ -10,6 +10,16 @@ Scientific argumentation thus plays a fundamental role in science, especially in
 
 In education, fostering argumentation skills is crucial for developing students' ability to engage in scientific reasoning. Research shows that many students view scientific inquiry as a mechanical process of following procedures rather than as a means of constructing and defending knowledge​. By integrating argumentation into science curricula, educators can shift students' perspectives, helping them understand that science is about producing the most reliable and defensible answers to research questions, rather than merely completing experiments.
 
+Iets over algemene research lijn, en hoe dit past in de bredere context van science education research.
+
+```{figure} ../figures/Toulmin_PACKS.jpg
+:width: 100%
+
+The Toulmin argumentation model integrated with the PACKS model, linking argumentation elements to types of knowledge required for scientific research.
+```
+
+
+
 ### Integration of argumentation and scientific inquiry
 
 Enabling students to engage in basic scientific research is an important component of the curriculum in secondary and higher education [ REF ]. However, literature indicates that meaningfully implementing this (developing research skills and knowledge in students) is only minimally successful [ REF ]. In my PhD research, we have taken steps to address this issue {cite:p}`pols2023development`. We have demonstrated that, on the one hand, argumentation is an indispensable but underemphasized aspect of education in scientific research. On the other hand, a focus on argumentation (viewing research as the construction of a scientifically convincing claim) leads students to develop a need for research knowledge, as they recognize that only the best answer to the research question suffices [ REF].
@@ -62,7 +72,7 @@ As a faculty member in Applied Physics with a research focus on physics educatio
 
 One of the challenges in this field is the limited availability of large-scale funding opportunities that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. There are research grants for education, but these foremost are focussed on education in general - resulting in a very divers field of applicants and reviewers (not aware of the issue in a specific educational domain). Despite these constraints, I have actively pursued funding opportunities and have been committed to supervising and mentoring researchers in this domain.
 
-In addition to my own research endeavors, I (try to) play a role in supporting assistant/associate professors (Wim Bouwman, Cees Haringa, Jessica Bickel, Rolf Hut) and colleagues (Pleun Hermsen, Margreet Docter, Rutger Ockhorst) who wish to investigate their own teaching practices. As well as students of the students association who wanted to do a study on the use of genAI in the educational program (Johann Beyers & Jesse van der Veen). Moreover, several papers have been written with students (Lennard Duynkerke, Jels Van Arragon, Kevin Van Prooijen, Luuk Van Der Goot, Nils Zwinkels, Seth Bulcke, Lisanne Oosterlaan, Fleur Collenteur, Marjolein v. Braak, Floris Dirkzwager, Koen van Uffelen, Amy Tarling & Xan Perk) on their projects done in the first year physics lab course, allowing them to gain some experience in the publishing process. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
+In addition to my own research endeavors, I (try to) play a role in supporting assistant/associate professors (Wim Bouwman, Cees Haringa, Jessica Bickel, Rolf Hut (@hut2020teaching & @pols2023maker) and colleagues (Pleun Hermsen, Margreet Docter, Rutger Ockhorst (@ockhorst2024hands)) who wish to investigate their own teaching practices. As well as students of the students association who wanted to do a study on the use of genAI in the educational program (Johann Beyers & Jesse van der Veen). Moreover, several papers have been written with students (Lennard Duynkerke, Jels Van Arragon, Kevin Van Prooijen, Luuk Van Der Goot, Nils Zwinkels, Seth Bulcke, Lisanne Oosterlaan, Fleur Collenteur, Marjolein v. Braak, Floris Dirkzwager, Koen van Uffelen, Amy Tarling & Xan Perk) on their projects done in the first year physics lab course, allowing them to gain some experience in the publishing process. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
 
 My leadership in this area strengthens the faculty's commitment to high-quality physics education and enhances our collective ability to contribute to the field. By fostering an environment where research-based teaching improvements are systematically explored and documented, I am actively shaping the future of physics education both within our faculty and beyond.
 
@@ -71,7 +81,7 @@ My leadership in this area strengthens the faculty's commitment to high-quality 
 I have been actively involved in review work for scientific journals ([PRPER](https://journals.aps.org/prper/)), professional journals ([phys. ed.](https://iopscience.iop.org/journal/0031-9120)), conference proposals and proceedings ([GIREP](https://www.girep.org/)), and Dutch research proposals ([SoTL](https://www.nro.nl/onderzoeksprogrammas/scholarship-of-teaching-and-learning-sotl-beurs) & [NRO klein](https://www.nro.nl/calls/kennis-voor-onderwijs-van-de-toekomst-klein)) & TUD OESF. Furthermore, for the NRO's Scholarship of Teaching and Learning, I lead a TUD review committee to support teacher who ... 
 After following a training at the Institute of Physics, and reviewing for IoP's physics education, I became an IoP's trusted reviewer.
 
-```{figure} iop.PNG
+```{figure} ../figures/iop.PNG
 :width: 50%
 :align: center
 

@@ -23,12 +23,17 @@ In this lecture I teach the basics of the pedagogy of practical work.
 **2023- SL4301 Implementatie van onderwijs (guest lecturer practicum Online textbooks & escaperooms)**  
 In this course students are introduced to relevant ideas and materials that they can use in their own teaching practices. I introduce them to the use of escaperooms and the use of open online interactive books.
 
+(thesis)=
 ## Supervision
 20XX Master Thesis Diana
 
 2024 Master Thesis Farah Kidwai: De SGO met perspectiefvragen - Een ontwerponderzoek naar het bevorderen van micro-macro denken in de scheikunde begripspracticumles
 
-2025 Stage
+2025 Stage Youri Barends
+
+2025 Master Thesis Marcel Claus
+
+2025 Master Thesis Mila Dobrovinski
 
 (Research_ouput)=
 ## Research output
@@ -231,7 +236,7 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
 
 (books)=
 ## Books & Chapters
-*   Broekzakdemos (2025)
+*   Broekzakdemos (2026)
     NVON
     van den Berg, E & Pols, F
 
@@ -243,11 +248,9 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
     NVON  
     Frederik, I., van den Berg, E., , Dekkers, P., Pols, F., Sonneveld, W., Spaan, W., van Veen, N., Staderman, K. 
 
-*   Show de Fysica 2: Natuurkunde laat je zien (2017)    
+*   ShowdeFysica 2: Natuurkunde laat je zien (2017)    
     NVON  
     Frederik, I., van den Berg, E., te Brinke, L., Dekkers, P., Pols, F., Sonneveld, W., Spaan, W., van Veen, N., van Woerkom, M. 
-
-
 
 *   Maker education in the applied physics bachelor programme at Delft University of Technology (2023).  
     Chapter in Klapwijk, M., Gu, J., Yang, Q., & de Vries, M. J. Maker Education Meets Technology Education: Reflections on good practices.  
@@ -456,3 +459,22 @@ https://polslab.tnw.tudelft.nl/index.php?page=Conferences
 | 2025 | | Open Science | V | X |
 
 Comenius 2x
+
+(Software)=
+## Software & Educational tools
+* Teachbooks
+
+* [plain_typst_template](https://github.com/myst-templates/plain_typst_book):
+A minimal Typst book template for Jupyter Book users, allowing users to create a high-quality PDF version of their Jupyter Book content using Typst.
+
+* [Myst plugins](https://github.com/jupyter-book/myst-plugins/):
+A  ....
+
+* [tutorial]
+workshops 
+
+* [Jupyter Book](https://jupyterbook.org/):
+
+documentation
+
+

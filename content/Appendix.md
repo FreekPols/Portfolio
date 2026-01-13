@@ -1,5 +1,24 @@
 # Appendices
 
+## Courses 
+
+```{table} Courses taught
+:name: table_courses
+:align: center
+
+| Course code | Course Name | Year | Task |
+| --- | --- | --- | --- |
+| TN13010 | Inleidend practicum 1 | 25 - now | Coordinator |
+| TN13015 | Inleidend practium 2 | 25 - now| Coordinator |
+| TN1405 | Inleidend practicum | 19-25 | Coordinator |
+| TN2985 | Introduction to experiments in physics | 19 - 25 | Coordinator
+| WM0318TN | Wetenschap en argumentatieleer | 22-23  | Tutor |
+| SL4301 | Implementatie van onderwijs | 23 - now | Guest lecturer |
+| SL4220 | Vakdidactiek basis | 22 - now | Guest lecturer |
+| SL4320 | Vakdidactiek verdiepend | 22 - now | Guest lecturer |
+```
+
+
 (Courses)=
 ## Courses 
 

@@ -1,46 +1,6 @@
 # Appendices
 
-## Courses 
-
-```{table} Courses taught
-:name: table_courses
-:align: center
-
-| Course code | Course Name | Year | Task |
-| --- | --- | --- | --- |
-| TN13010 | Inleidend practicum 1 | 25 - now | Coordinator |
-| TN13015 | Inleidend practium 2 | 25 - now| Coordinator |
-| TN1405 | Inleidend practicum | 19-25 | Coordinator |
-| TN2985 | Introduction to experiments in physics | 19 - 25 | Coordinator
-| WM0318TN | Wetenschap en argumentatieleer | 22-23  | Tutor |
-| SL4301 | Implementatie van onderwijs | 23 - now | Guest lecturer |
-| SL4220 | Vakdidactiek basis | 22 - now | Guest lecturer |
-| SL4320 | Vakdidactiek verdiepend | 22 - now | Guest lecturer |
-```
-
-
-(Courses)=
-## Courses 
-
-**2019-now**  
-**TN1405: Inleidend practicum (coordinator)**  
-The first year physics lab course (6ECTS ~240 students) aims at introducing students to the basics of experimental physics.
-
-**TN2985: Introduction to experiments in physics(coordinator)**  
-This course (2ECTS ~40 students) introduces students how opted for the minor in physics to the basics of experimental physics.
-
-**2023&2024 WM0318 Wetenschaps- & argumentatieleer (lecturer)**  
-This course introduces the students to the philosophy of science (Nature of Science). In various sessions they discuss their standpoints regarding statements that are introduced in articles. They thereby explore their own views on the nature of science.
-
-**2022-Now** 
-**SL4310 Vakdidactiek verdieping (guest lecturer ICT)**  
-In this lecture I introduce the students to the use of four different ICT tools which can be used in the classroom.
-
-**SL4220 Vakdidactiek basis Natuurkunde/Scheikunde (guest lecturer practicum)**  
-In this lecture I teach the basics of the pedagogy of practical work.
-
-**2023- SL4301 Implementatie van onderwijs (guest lecturer practicum Online textbooks & escaperooms)**  
-In this course students are introduced to relevant ideas and materials that they can use in their own teaching practices. I introduce them to the use of escaperooms and the use of open online interactive books.
+Below are the appendices with additional information on my academic activities categorized by the three different sections in this document. 
 
 (thesis)=
 ## Supervision
@@ -53,37 +13,6 @@ In this course students are introduced to relevant ideas and materials that they
 2025 Master Thesis Marcel Claus
 
 2025 Master Thesis Mila Dobrovinski
-
-(Research_ouput)=
-## Research output
-A detailed list of scientific publications with abstracts is available [here](https://polslab.tnw.tudelft.nl/index.php?page=Publications).
-
-**2024**
-
-*   Redesigning a first year physics lab course on the basis of the procedural and conceptual knowledge in science model.  
-    *Physical Review Physics Education Research*, 20(1), 010117.  
-    Pols, C.F.J., & Dekkers, P.J.J.M.
-
-**2023**
-
-*   Integrating argumentation in physics inquiry: A design and evaluation study.  
-    *Physical Review Physics Education Research*, 19(2), 020170.  
-    Pols, C.F.J., Dekkers, P.J.J.M., & de Vries, M.J.
-
-**2022**
-
-*   ‘Would you dare to jump?’ Fostering a scientific approach to secondary physics inquiry.  
-    *International Journal of Science Education*, 44(9), 1481-1505.  
-    Pols, C.F.J., Dekkers, P.J.J.M., & De Vries, M.J.
-
-*   Defining and assessing understandings of evidence with the assessment rubric for physics inquiry: Towards integration of argumentation and inquiry.  
-    *Physical Review Physics Education Research*, 18(1), 010111.  
-    Pols, C.F.J., Dekkers, P.J.J.M., & De Vries, M.J.
-
-**2021**
-*   What do they know? Investigating students’ ability to analyse experimental data in secondary physics education.  
-    *International Journal of Science Education*, 43(2), 274-297.  
-    Pols, C.F.J., Dekkers, P.J.J.M., & De Vries, M.J. 
 
 (int_ed_pap)=
 ## Educational papers (international)
@@ -452,30 +381,6 @@ https://polslab.tnw.tudelft.nl/index.php?page=Conferences
     Paper presented at the GIREP conference, San Sebastian, Spain.  
     Pols, C.F.J. & Dekkers, P.J.J.M. 
 
-(Grants)=
-## Grants & Applications
-
-| Year | Title | Call | Main applicant | Accepted |
-| --- | --- | --- | --- | --- |
-| 2014 | The interactive whiteboard as intervention during practical work in physics class to increase students learning  | NRO: Promotiebeurs voor leraren | V | V |
-| 2023 | Perspective Agility for Navigating Diversity, Collaboration and Conflict in order to advance Equity and Inclusion | NRO: Comenius Senior fellow | X | V |
-| 2023 | A modular programming book for engineering students| TUD Open Education Stimulation Fund | X | X |
-| 2023 | Opening Up Classroom Demonstration Experiments | TUD Open Education Stimulation Fund  | X | V |
-| 2023 | The road to scientific inquiry  | TUD Education Fellowship  | V | V |
-| 2023 | To ChatGPT, or not to ChatGPT: Effectief gebruik van Artificial Intelligence in het onderwijs | NRO: Comenius teaching fellowship | V  | X |
-| 2024 | Integration of Argumentation and Engineering Design|  NRO: edVenturous Questions  | V  | X |
-| 2024 | Towards a coherent curriculum: Guiding curriculum transformation through educational design theory | NRO: Hoger onderwijs van de toekomst | X | X |
-| 2024 | From Closed to Open: Bottom-up Open Educational Resources with and for pre-service teachers | NRO: Comenius teaching fellowship  | V | X |
-| 2024 | Curriculum | TUD Education Fellowship | X | V |
-| 2025 | The Scientific Graphic Organizer as aid for practical work in science subjects| NRO: Pareltjes uit de praktijk | X | X |
-| 2025 | gAI in secondary education – designing exemplary activities to develop student and teacher competences | NRO: Kennis voor de toekomst, Klein  | X | |
-| 2025 | Integration of Argumentation and Engineering Design| NRO: Kennis voor de toekomst, Middel | V | X |
-| 2025 | Building Thinking Classrooms in Wiskunde-, Natuurkunde- en Scheikundeonderwijs | NRO: Kennis voor de toekomst, Middel | X |  |
-| 2025 | Student-Centred Learning with AI Tutors in Project Work | TUD: AI-Augmented Engineering Education | V | X |
-| 2025 | Jupyter Books for education & open publishing: Next Level | TUD Open Science Fund | X | V |
-| 2025 | Doe de Fysica | Betadecanen | V | X |
-| 2025 | | Open Hardware| V | V |
-| 2025 | | Open Science | V | X |
 
 Comenius 2x
 

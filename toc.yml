@@ -11,3 +11,7 @@ project:
     - file: content/Research.md
     - file: content/Impact.md
     - file: content/Appendix.md
+      children:
+      - file: content/AppendixA.md
+      - file: content/AppendixB.md
+      - file: content/AppendixC.md

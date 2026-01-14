@@ -1,24 +1,55 @@
 # Research
 
-## Research into the integration of argumentation in science & engineering education
+```{warning}
+2. Clarify prioritization across research strands
+
+You currently present:
+
+- inquiry + argumentation,
+- engineering design,
+- writing & AI,
+- teacher knowledge.
+
+All are interesting, but together they may appear overambitious.
+
+Recommendation:
+- Make clearer (implicitly or explicitly):
+- what is core (your main line),
+- what is supporting or derivative,
+- what is exploratory.
+
+5. Sharpen the final Reflection toward promotion readiness
+
+Your reflection is honest and reflective—but slightly cautious.
+
+Committees are reassured when a candidate:
+- acknowledges limits,
+- but still claims readiness.
+
+Recommendation:
+Without changing tone, ensure the reflection clearly answers:
+- Why is this the right moment for the next step?
+- You already have the evidence; it is mostly a matter of emphasis.
+```
+## Research line into the integration of argumentation in science & engineering education
 
 Argumentation is at the core of scientific practice. It is the means by which scientists construct, justify, and communicate knowledge, ensuring that claims are rigorously tested and defended. From formulating hypotheses to interpreting data, from engaging in peer review to debating theoretical frameworks, argumentation permeates every aspect of scientific inquiry. Without it, science would not function as a self-correcting, evidence-based discipline.
 
-The @Toulmin2003 model of argumentation has been widely used to describe this structure, emphasizing key components such as claims, warrants, and backing, which form the foundation of a cogent scientific argument​. However, scientific argumentation is more than just a method of presenting findings in a scientific journal in which all elements of the Toulmin argumentation are recognizable — it is an essential cognitive process in conducting research, the crucial element in the entire scientific endeavour. A scientific investigation does not merely seek to gather data; it aims to construct a compelling and well-supported claim based on that data​. This requires reasoning systematically, evaluating alternative explanations, and providing justification for methodological choices. 
+The @Toulmin2003 model of argumentation has been widely used to describe the structure arguments. It emphasizes key components such as claims, warrants, and backing, which form the foundation of a cogent scientific argument​. However, scientific argumentation is more than just a method of presenting findings in a scientific journal in which all elements of the Toulmin argumentation are recognizable — Argumentation is an essential cognitive process in conducting research, the crucial element in the entire scientific endeavour. A scientific investigation does not merely seek to gather data; it aims to construct a compelling and well-supported claim based on that data​. This requires reasoning systematically, evaluating alternative explanations, and providing justification for methodological choices. 
 
 Scientific argumentation thus plays a fundamental role in science, especially in inquiry and in engineering design. In the process of conducting research and designing technological solution, scientists and engineers do not passively record observations or build prototypes from scratch; they actively engage in constructing an argument that supports their conclusions/solution. This involves critically assessing evidence, scrutinizing methodologies, weighing pros and cons for different solutions to each decision they have to make, and anticipating potential counterarguments​.
 
 In education, fostering argumentation skills is crucial for developing students' ability to engage in scientific reasoning. Research shows that many students view scientific inquiry as a mechanical process of following procedures rather than as a means of constructing and defending knowledge​. By integrating argumentation into science curricula, educators can shift students' perspectives, helping them understand that science is about producing the most reliable and defensible answers to research questions, rather than merely completing experiments.
 
-Iets over algemene research lijn, en hoe dit past in de bredere context van science education research.
+However, many of these studies focus primarily on the structure of the argument (e.g. identifying claims, warrants and backings) rather than looking at the content itself: what arguments are used as backing, what is the quality of the evidence, and how do students decide what data to collect and how to interpret it. But if we want to teach students (at whatever level) how to setup a rigorous scientific inquiry, or design a durable and long-lasting solution to a technical problem, we need to go beyond the structure of the argument. We need to understand how students make decisions throughout the research and design process, what knowledge they use to justify their choices, and how they can be supported in developing a more sophisticated understanding of scientific practices.
+
+My former PhD research focused on integrating argumentation into scientific inquiry education at the secondary school level {cite:p}`pols2023development`. Building on this work, my current and future research aims to further explore the integration of argumentation in both scientific inquiry and engineering design education. The goal is to develop theoretical frameworks and practical teaching approaches that help students not only understand the structure of scientific arguments but also engage deeply with the content and reasoning processes that underpin scientific research and engineering design. To further elaborate on what this entails, I provide two sections below that outline the research directions in scientific inquiry and engineering design education, respectively.
 
 ```{figure} ../figures/Toulmin_PACKS.jpg
 :width: 100%
 
 The Toulmin argumentation model integrated with the PACKS model, linking argumentation elements to types of knowledge required for scientific research.
 ```
-
-
 
 ### Integration of argumentation and scientific inquiry
 
@@ -63,16 +94,29 @@ we will involve secondary school pre-service teachers in our teacher-education p
 The developed materials will be arranged in a coherent teaching-learning sequence, where we emphasizes throughout the need for integrating argumentation and ED: each and every design decisions should be justifiable in light of producing the best available solution within certain practical constraints (finance, time, knowledge). Using the central question:
 * What does integrating argumentation in teaching engineering design contribute to student understanding, critical attitude, and use of argumentation in ED?
 
-## Open Education
-iets over nieuwe wereld van OE, en de vele vraagstukken die er zijn. d eprojecten die er lopen, zowel op TUD als met twente. Ontwikkeling en onderzoek hand in hand.
-
 ## Supervising
 
 As a faculty member in Applied Physics with a research focus on physics education, my work bridges the gap between fundamental physics and the scholarship of teaching and learning. My research aims  especially on enhancing physics education by integrating inquiry learning, argumentation, and conceptual understanding into instructional practices.
 
 One of the challenges in this field is the limited availability of large-scale funding opportunities that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. There are research grants for education, but these foremost are focussed on education in general - resulting in a very divers field of applicants and reviewers (not aware of the issue in a specific educational domain). Despite these constraints, I have actively pursued funding opportunities and have been committed to supervising and mentoring researchers in this domain.
 
-In addition to my own research endeavors, I (try to) play a role in supporting assistant/associate professors (Wim Bouwman, Cees Haringa, Jessica Bickel, Rolf Hut (@hut2020teaching & @pols2023maker) and colleagues (Pleun Hermsen, Margreet Docter, Rutger Ockhorst (@ockhorst2024hands)) who wish to investigate their own teaching practices. As well as students of the students association who wanted to do a study on the use of genAI in the educational program (Johann Beyers & Jesse van der Veen). Moreover, several papers have been written with students (Lennard Duynkerke, Jels Van Arragon, Kevin Van Prooijen, Luuk Van Der Goot, Nils Zwinkels, Seth Bulcke, Lisanne Oosterlaan, Fleur Collenteur, Marjolein v. Braak, Floris Dirkzwager, Koen van Uffelen, Amy Tarling & Xan Perk) on their projects done in the first year physics lab course, allowing them to gain some experience in the publishing process. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
+Given the structural realities of education research, I build research capacity through mentoring, collaboration, and embedded research. For instance, in addition to my own research endeavors, I (try to) play a role in supporting assistant/associate professors (Wim Bouwman, Cees Haringa, Jessica Bickel, Rolf Hut (@hut2020teaching & @pols2023maker)) and colleagues (Pleun Hermsen, Margreet Docter, Rutger Ockhorst (@ockhorst2024hands)) who wish to investigate their own teaching practices. As well as students of the students association who wanted to do a study on the use of genAI in the educational program (Johann Beyers & Jesse van der Veen). Moreover, several papers have been written with students (Lennard Duynkerke, Jels Van Arragon, Kevin Van Prooijen, Luuk Van Der Goot, Nils Zwinkels, Seth Bulcke, Lisanne Oosterlaan, Fleur Collenteur, Marjolein v. Braak, Floris Dirkzwager, Koen van Uffelen, Amy Tarling & Xan Perk) on their projects done in the first year physics lab course, allowing them to gain some experience in the publishing process. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
+
+```{warning}
+show that working with other is not incidental, but a deliberate, field-aware strategy. It builds capacity.
+
+What “capacity building” looks like in your case
+
+Without adding new activities, your work already shows that you:
+
+enable colleagues to turn teaching into research,
+
+create publication opportunities for students,
+
+translate innovation grants into scholarly output,
+
+support others through reviewing and proposal feedback.
+```
 
 My leadership in this area strengthens the faculty's commitment to high-quality physics education and enhances our collective ability to contribute to the field. By fostering an environment where research-based teaching improvements are systematically explored and documented, I am actively shaping the future of physics education both within our faculty and beyond.
 
@@ -87,3 +131,6 @@ After following a training at the Institute of Physics, and reviewing for IoP's 
 
 [Certificate of IoP's trusted reviewer](https://accreditations.ioppublishing.org/cddd8ece-c4ab-4fa8-836f-04381bd95a7e#acc.b9kdGBu8)
 ```
+
+## Reflection
+I believe that the above illustrates that I found a niche in research that is worthy and interesting to pursue. I want to dedicate the next years to further develop this research line, and to contribute to the field of physics education research - at both secondary and tertiary level. Although have not had the opportunity to formally supervise PhD students yet, I am actively involved in mentoring and guiding researchers in this domain. Moreover, I am recognized and frequently consulted by colleagues and editors to review educational research proposals and manuscripts. Taken together, I am confident that I can make meaningful contribution to the research as well as serve our university by disseminating this knowledge to our students and colleagues.

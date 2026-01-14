@@ -23,6 +23,7 @@ site:
   #   favicon: favicon.ico
     logo: figures/logo.png
     hide_authors: true
+    style: custom.css
   actions: 
     - title: pdf
       url: exports/Vision_statement_FP.pdf

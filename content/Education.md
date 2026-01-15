@@ -1,3 +1,4 @@
+(ch.education)=
 # Education
 
 I think one of my first experiences with teaching is instructing sailing at an age of 14.
@@ -87,26 +88,3 @@ I actively contribute to the development of education by disseminating insights,
 In doing so, I connect educational practice with scholarly reflection and contribute to the broader community of physics and physics education educators.
 Taken together, these activities reflect my readiness to take on greater responsibility and leadership in education, in line with the role and expectations of an associate professor with an emphasis on education.
 
-
-### Scientific Contributions and Outreach
-
-The NP has contributed to both **scientific and educational publications** and has been used to **engage prospective students**. Notable outputs include:  
-
-1. **A Physics Lab Course in Times of COVID-19** *(peer-reviewed article on adapting to home-based practicum)*  
-   - [Read here](https://ejrsme.icrsme.com/article/view/20276)  
-
-2. **Students' Report on an Open Inquiry** *(Physics education research paper)* [](10.1088/1361-6552/ac27f8)
-   - DOI: 10.1088/1361-6552/ac27f8  
-
-3. **GIREP Symposium** *(Comparison of practicum courses across four universities)*  
-   - [Conference abstract](https://indico.cern.ch/event/1025696/book-of-abstracts.pdf)  
-
-4. **Pre-University On-Campus Tracks** *(Engagement program for high school students)*  
-   - [More info](https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/voorlichting-bachelor/tu-delft-pre-university-programme/pre-university-on-campus-tracks/natuurkundig-practicum-bepaling-van-g)
-
-5. **PRPER** *(Redesigning a first year physics lab course on the basis of the procedural
-and conceptual knowledge in science model)* [](10.1103/PhysRevPhysEducRes.20.010117)
-
-6. **Phys Ed.** *(One setup for many experiments: enabling versatile student-led investigations)* [](10.1088/1361-6552/acfd7b)
-
-7. ...

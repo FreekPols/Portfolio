@@ -1,5 +1,5 @@
-# Impact, valorization, leadership, organization
-
+(ch.valorization)=
+# Valorization, impact, leadership, organization
 
 For some, it is straightforward to distinguish between Impact, valorization, leadership, organization. However, in my case, these dimensions are inherently intertwined due to the nature of my work. My research in physics education, teaching, and the dissemination of both research findings and educational materials create impact, shows leadership, ...
 

@@ -1,5 +1,7 @@
-## Education
+(App.Education)=
+# Education
 
+Below is a selection of relevant elements supporting the ...
 
 ## Courses 
 
@@ -7,38 +9,46 @@
 :name: table_courses
 :align: center
 
-| Course code | Course Name | Year | Task |
-| --- | --- | --- | --- |
-| TN13010 | Inleidend practicum 1 | 25 - now | Coordinator |
-| TN13015 | Inleidend practium 2 | 25 - now| Coordinator |
-| TN1405 | Inleidend practicum | 19-25 | Coordinator |
-| TN2985 | Introduction to experiments in physics | 19 - 25 | Coordinator
-| WM0318TN | Wetenschap en argumentatieleer | 22-23  | Tutor |
-| SL4301 | Implementatie van onderwijs | 23 - now | Guest lecturer |
-| SL4220 | Vakdidactiek basis | 22 - now | Guest lecturer |
-| SL4320 | Vakdidactiek verdiepend | 22 - now | Guest lecturer |
+| Course code | Course name | Year | Role | Description |
+| --- | --- | --- | --- | --- |
+| TN13010 | Inleidend practicum 1 | 25 - now | Coordinator | A redesign of the FYPLC complying with the renewed physics curriculum. It includes now a 2 ECTS project on mechanics. | 
+| TN13015 | Inleidend practium 2 | 25 - now| Coordinator | A redesign of the FYPLC complying with the renewed physics curriculum. It includes now a 2 ECTS project on thermodynamics. |
+| TN1405 | Inleidend practicum | 19-25 | Coordinator | The first year physics lab course (6ECTS ~240 students) aims at introducing students to the basics of experimental physics. | 
+| TN2985 | Introduction to experiments in physics | 19 - 25 | Coordinator | This course (2ECTS ~40 students) introduces students how opted for the minor in physics to the basics of experimental physics. |
+| WM0318TN | Wetenschap en argumentatieleer | 22-23  | Tutor | This course introduces the students to the philosophy of science (Nature of Science). In various sessions they discuss their standpoints regarding statements that are introduced in articles. They thereby explore their own views on the nature of science. |
+| SL4301 | Implementatie van onderwijs | 23 - now | Guest lecturer | In this course students are introduced to relevant ideas and materials that they can use in their own teaching practices. I introduce them to the use of escaperooms and the use of open online interactive books. |
+| SL4220 | Vakdidactiek basis | 22 - now | Guest lecturer | In this lecture I teach the basics of the pedagogy of practical work.  |
+| SL4320 | Vakdidactiek verdiepend | 22 - now | Guest lecturer | In this lecture I introduce the students to the use of four different ICT tools which can be used in the classroom. |
 ```
 
+## Scientific contributions
 
-(Courses)=
-## Courses 
+The NP has contributed to both **scientific and educational publications** and has been used to **engage prospective students**. Notable outputs include:  
 
-**2019-now**  
-**TN1405: Inleidend practicum (coordinator)**  
-The first year physics lab course (6ECTS ~240 students) aims at introducing students to the basics of experimental physics.
+- *A Physics Lab Course in Times of COVID-19*.  
+A paper on the transition to online education during the COVID-19 pandemic. @pols2020physics
 
-**TN2985: Introduction to experiments in physics(coordinator)**  
-This course (2ECTS ~40 students) introduces students how opted for the minor in physics to the basics of experimental physics.
 
-**2023&2024 WM0318 Wetenschaps- & argumentatieleer (lecturer)**  
-This course introduces the students to the philosophy of science (Nature of Science). In various sessions they discuss their standpoints regarding statements that are introduced in articles. They thereby explore their own views on the nature of science.
+- *Redesigning a first year physics lab course on the basis of the procedural and conceptual knowledge in science model*.  
+A scientific article on the redesign of the FYPLC. @pols2024redesigning
 
-**2022-Now** 
-**SL4310 Vakdidactiek verdieping (guest lecturer ICT)**  
-In this lecture I introduce the students to the use of four different ICT tools which can be used in the classroom.
 
-**SL4220 Vakdidactiek basis Natuurkunde/Scheikunde (guest lecturer practicum)**  
-In this lecture I teach the basics of the pedagogy of practical work.
 
-**2023- SL4301 Implementatie van onderwijs (guest lecturer practicum Online textbooks & escaperooms)**  
-In this course students are introduced to relevant ideas and materials that they can use in their own teaching practices. I introduce them to the use of escaperooms and the use of open online interactive books.
+## Professional contributions
+- *Students’ report on an open inquiry*.  
+A paper on students' experiences with open inquiry in the redesigned lab course. @pols2021students
+
+- *One setup for many experiments: enabling versatile student-led investigations*.  
+A paper on the newly included experiment to determine *g* with 0.1% accuracy and how it enables various students-led investigations. @pols2023one
+
+## Outreach contributions
+GIREP
+
+Physics in engineering education
+
+3. **GIREP Symposium** *(Comparison of practicum courses across four universities)*  
+   - [Conference abstract](https://indico.cern.ch/event/1025696/book-of-abstracts.pdf)  
+
+4. **Pre-University On-Campus Tracks** *(Engagement program for high school students)*  
+   - [More info](https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/voorlichting-bachelor/tu-delft-pre-university-programme/pre-university-on-campus-tracks/natuurkundig-practicum-bepaling-van-g)
+

@@ -38,6 +38,13 @@ To summarize, the main changes in the FYPLC that were implemented are:
 - Complete revision of the [labcourse manual](https://contemporary-physicslab.github.io/NP-new-style/main/toc.html) (twice), with links to lectures, assignments, interactive quizes and activities etc.  
 - Revision of grading rubrics.  
 
+```{figure} ../figures/fyplc.jpg
+:label: fig_fyplc
+:width: 70%
+
+Students working in the First Year Physics Lab Course (FYPLC) on the new experiment to determine the gravitational acceleration *g* with 0.1% accuracy.
+```
+
 A completely new program was developed for the minor course.
 Students now enjoy significant flexibility, both in progressing at their own pace (for Python and report writing) and in choosing experiments.
 As a result, student satisfaction increased from **5.7 (2019) to 8.0 (2020) to 8.2 (2021) and 8.4 (2025)**.  

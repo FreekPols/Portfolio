@@ -2,6 +2,7 @@
 # Research
 
 A selection of relevant research outputs supporting ... 
+
 (Research_ouput)=
 ## Scientific publications
 A detailed list of scientific publications with abstracts is available [here](https://polslab.tnw.tudelft.nl/index.php?page=Publications).
@@ -22,8 +23,12 @@ A detailed list of scientific publications with abstracts is available [here](ht
 
 *   {cite:t}`pols2021they`
 
+*   {cite:t}`pols2019introducing`
+
 (pub_with_colleagues)=
 ## Publications with colleagues
+A selection of papers co-authored with colleagues on education. 
+
 *   {cite:t}`ockhorst2024hands`
 
 *   {cite:t}`pols2023maker`
@@ -38,9 +43,11 @@ A detailed list of scientific publications with abstracts is available [here](ht
 
 *   {cite:t}`docter2026electronic`
 
+*   {cite:t}`bradbury24pandemic`
 
 (pub_with_students)=
 ## Publications with students
+A selection of papers co-authored with students.
 *   {cite:t}`pols2021students`
 
 *   {cite:t}`pols2023radioactiviteit`
@@ -52,3 +59,14 @@ A detailed list of scientific publications with abstracts is available [here](ht
 *   {cite:t}`pols2026honey`
 
 *   {cite:t}`pols2026thermo`
+`
+
+(thesis)=
+## Master thesis supervision
+20XX Master Thesis Diana
+
+2024 Master Thesis Farah Kidwai: De SGO met perspectiefvragen - Een ontwerponderzoek naar het bevorderen van micro-macro denken in de scheikunde begripspracticumles
+
+2025 Master Thesis Marcel Claus
+
+2025 Master Thesis Mila Dobrovinski

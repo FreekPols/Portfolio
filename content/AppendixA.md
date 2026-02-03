@@ -21,34 +21,24 @@ Below is a selection of relevant elements supporting the ...
 | SL4320 | Vakdidactiek verdiepend | 22 - now | Guest lecturer | In this lecture I introduce the students to the use of four different ICT tools which can be used in the classroom. |
 ```
 
-## Scientific contributions
+(course_output)=
+## Dissemination of course innovations
 
-The NP has contributed to both **scientific and educational publications** and has been used to **engage prospective students**. Notable outputs include:  
+This is a selection of the outputs related to the innovation of the lab courses.
 
-- *A Physics Lab Course in Times of COVID-19*.  
-A paper on the transition to online education during the COVID-19 pandemic. @pols2020physics
+- @pols2020physics: *A Physics Lab Course in Times of COVID-19*. A paper on the transition to online education during the COVID-19 pandemic.
+
+- @pols2024redesigning: *Redesigning a first year physics lab course on the basis of the procedural and conceptual knowledge in science model*. A scientific article on the redesign of the FYPLC. 
+
+- @pols2021students: *Students’ report on an open inquiry*. A paper on students' experiences with open inquiry in the redesigned lab course. 
+
+- @pols2023one: *One setup for many experiments: enabling versatile student-led investigations*. A paper on the newly included experiment to determine *g* with 0.1% accuracy and how it enables various students-led investigations.
+
+- @pols2024elements: *Elements of proper conclusion*. A paper on writing of proper conclusions at first-year level.
+
+- @pols2021differences *(Comparison of practicum courses across four universities)*  A GIREP Symposium where we compare different approach to physics lab courses across four universities.
 
 
-- *Redesigning a first year physics lab course on the basis of the procedural and conceptual knowledge in science model*.  
-A scientific article on the redesign of the FYPLC. @pols2024redesigning
 
 
-
-## Professional contributions
-- *Students’ report on an open inquiry*.  
-A paper on students' experiences with open inquiry in the redesigned lab course. @pols2021students
-
-- *One setup for many experiments: enabling versatile student-led investigations*.  
-A paper on the newly included experiment to determine *g* with 0.1% accuracy and how it enables various students-led investigations. @pols2023one
-
-## Outreach contributions
-GIREP
-
-Physics in engineering education
-
-3. **GIREP Symposium** *(Comparison of practicum courses across four universities)*  
-   - [Conference abstract](https://indico.cern.ch/event/1025696/book-of-abstracts.pdf)  
-
-4. **Pre-University On-Campus Tracks** *(Engagement program for high school students)*  
-   - [More info](https://www.tudelft.nl/onderwijs/voorlichting-en-ervaren/voorlichting-bachelor/tu-delft-pre-university-programme/pre-university-on-campus-tracks/natuurkundig-practicum-bepaling-van-g)
-
+## Books and manual

@@ -52,8 +52,11 @@ The first course was directly adopted from the previous FYPLC, no adjustments we
 The second course however was redesigned to better align with the content of the second quarter (thermodynamics).
 Together with Roel Smit we designed nine laboratory activities and ten thermodynamic simulations aiming to develop better understanding of thermodynamic concepts at the macroscopic level through a focus on microscopic particle behavior.
 
-```{note} example of simulation
-Include a YT clip here of one of the simulations, e.g. brownian motion.
+```{figure} ../figures/deeltjes.*
+:label: fig_deeltjes
+:width: 70%
+
+One of the simulations students have to develop where they compare Brownian motion of gas particles (red and blue) to a single heavier atom (black dot). The trajectories of a single light and the heavy particles are shown.
 ```
 
 (teachereducation)=

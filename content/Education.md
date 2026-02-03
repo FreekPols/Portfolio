@@ -56,7 +56,7 @@ Together with Roel Smit we designed nine laboratory activities and ten thermodyn
 :label: fig_deeltjes
 :width: 70%
 
-One of the simulations students have to develop where they compare Brownian motion of gas particles (red and blue) to a single heavier atom (black dot). The trajectories of a single light and the heavy particles are shown.
+One of the simulations students have to develop where they compare Brownian motion of gas particles (red and blue) to a single heavier atom (black dot). The trajectories of a single light and the heavy particles are shown. Note that the full animation can be seen online only.
 ```
 
 (teachereducation)=

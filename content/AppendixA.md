@@ -36,8 +36,7 @@ This is a selection of the outputs related to the innovation of the lab courses.
 
 - @pols2024elements: *Elements of proper conclusion*. A paper on writing of proper conclusions at first-year level.
 
-- @pols2021differences *(Comparison of practicum courses across four universities)*  A GIREP Symposium where we compare different approach to physics lab courses across four universities.
+- @pols2021differences *Comparison of practicum courses across four universities*  A GIREP Symposium where we compare different approach to physics lab courses across four universities.
 
 - @pols2024vitruvian: *The Vitruvian man: An introduction to measurement and data analysis*. A paper on a new approach to introduce measurement and data analysis to first year students.
 
-## Books and manual

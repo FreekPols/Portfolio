@@ -1,53 +1,27 @@
 (ch.research)=
 # Research
 
-```{warning}
-2. Clarify prioritization across research strands
+- research line
+- supervising students
+- review process / scientific community
 
-You currently present:
-
-- inquiry + argumentation,
-- engineering design,
-- writing & AI,
-- teacher knowledge.
-
-All are interesting, but together they may appear overambitious.
-
-Recommendation:
-- Make clearer (implicitly or explicitly):
-- what is core (your main line),
-- what is supporting or derivative,
-- what is exploratory.
-
-5. Sharpen the final Reflection toward promotion readiness
-
-Your reflection is honest and reflective—but slightly cautious.
-
-Committees are reassured when a candidate:
-- acknowledges limits,
-- but still claims readiness.
-
-Recommendation:
-Without changing tone, ensure the reflection clearly answers:
-- Why is this the right moment for the next step?
-- You already have the evidence; it is mostly a matter of emphasis.
-```
 ## Research line into the integration of argumentation in science & engineering education
 
 Argumentation is at the core of scientific practice. It is the means by which scientists construct, justify, and communicate knowledge, ensuring that claims are rigorously tested and defended. From formulating hypotheses to interpreting data, from engaging in peer review to debating theoretical frameworks, argumentation permeates every aspect of scientific inquiry. Without it, science would not function as a self-correcting, evidence-based discipline.
 
-The @Toulmin2003 model of argumentation has been widely used to describe the structure arguments. It emphasizes key components such as claims, warrants, and backing, which form the foundation of a cogent scientific argument​. However, scientific argumentation is more than just a method of presenting findings in a scientific journal in which all elements of the Toulmin argumentation are recognizable — Argumentation is an essential cognitive process in conducting research, the crucial element in the entire scientific endeavour. A scientific investigation does not merely seek to gather data; it aims to construct a compelling and well-supported claim based on that data​. This requires reasoning systematically, evaluating alternative explanations, and providing justification for methodological choices. 
+The @Toulmin2003 model of argumentation has been widely used to describe the structure of arguments. It emphasizes key components such as claims, warrants, and backings, which form the foundation of a cogent scientific argument​. However, scientific argumentation is more than just a method of presenting findings in a scientific journal in which all elements of the Toulmin argumentation are recognizable — Argumentation is an essential cognitive process in conducting research, the crucial element in the entire scientific endeavour. A scientific investigation does not merely seek to gather data; it aims to construct a compelling and well-supported claim based on that data​. This requires reasoning systematically, evaluating alternative explanations, and providing justification for methodological choices. 
 
 Scientific argumentation thus plays a fundamental role in science, especially in inquiry and in engineering design. In the process of conducting research and designing technological solution, scientists and engineers do not passively record observations or build prototypes from scratch; they actively engage in constructing an argument that supports their conclusions/solution. This involves critically assessing evidence, scrutinizing methodologies, weighing pros and cons for different solutions to each decision they have to make, and anticipating potential counterarguments​.
 
-In education, fostering argumentation skills is crucial for developing students' ability to engage in scientific reasoning. Research shows that many students view scientific inquiry as a mechanical process of following procedures rather than as a means of constructing and defending knowledge​. By integrating argumentation into science curricula, educators can shift students' perspectives, helping them understand that science is about producing the most reliable and defensible answers to research questions, rather than merely completing experiments.
+In education, fostering argumentation skills is crucial for developing students' ability to engage in scientific reasoning. Research shows that many students view scientific inquiry as a mechanical process of following procedures rather than as a means of constructing and defending knowledge [REF]​. By integrating argumentation into science curricula, educators can shift students' perspectives, helping them understand that science is about producing the most reliable and defensible answers to research questions, rather than merely completing experiments.
 
-However, many of these studies focus primarily on the structure of the argument (e.g. identifying claims, warrants and backings) rather than looking at the content itself: what arguments are used as backing, what is the quality of the evidence, and how do students decide what data to collect and how to interpret it. But if we want to teach students (at whatever level) how to setup a rigorous scientific inquiry, or design a durable and long-lasting solution to a technical problem, we need to go beyond the structure of the argument. We need to understand how students make decisions throughout the research and design process, what knowledge they use to justify their choices, and how they can be supported in developing a more sophisticated understanding of scientific practices.
+However, many of the studies that relate to argumentation in science education focus primarily on the structure of the argument (e.g. identifying claims, warrants and backings) rather than looking at the content itself - scientific cogency of the argument: what arguments are used as backing, what is the quality of the evidence, and how do students decide what data to collect and how to interpret it. However, if we want to teach students (at whatever level) how to setup a rigorous scientific inquiry or design a durable and long-lasting solution to a technical problem, we need to go beyond the structure of the argument. We need to understand how students make decisions throughout the research and design process, what knowledge they use to justify their choices, and how they can be supported in developing a more sophisticated understanding of scientific practices.
 
 My former PhD research focused on integrating argumentation into scientific inquiry education at the secondary school level {cite:p}`pols2023development`. Building on this work, my current and future research aims to further explore the integration of argumentation in both scientific inquiry and engineering design education. The goal is to develop theoretical frameworks and practical teaching approaches that help students not only understand the structure of scientific arguments but also engage deeply with the content and reasoning processes that underpin scientific research and engineering design. To further elaborate on what this entails, I provide two sections below that outline the research directions in scientific inquiry and engineering design education, respectively.
 
 ```{figure} ../figures/Toulmin_PACKS.jpg
 :width: 100%
+:label: fig_toulmin_packs
 
 The Toulmin argumentation model integrated with the PACKS model, linking argumentation elements to types of knowledge required for scientific research.
 ```
@@ -58,7 +32,7 @@ Enabling students to engage in basic scientific research is an important compone
 
 By defining 'research' as the construction of the most convincing possible answer to a given question, it is no longer sufficient for a student to merely apply the correct theory and perform methodologically sound procedures. The development of such routines remains important, but the didactics must also ensure that the student is continuously aware of the nature and purpose of the research activity. This means that the student makes decisions and choices that are rationally justifiable, as they lead to optimally valid and reliable research outcomes within the given contextual constraints. This perspective on a 'research learning trajectory' requires the development of didactics that span from students' first encounter with scientific research to full-fledged independent physical research.
 
-At the end of the dissertation, a large theoretical model is developed (see figure below), which appears to be useful for further integrating argumentation and research. The presented model links the Toulmin argumentation model [@Toulmin2003] with the Procedural and Conceptual Knowledge in Science (PACKS) model [@Millar1994]. While the Toulmin model describes the elements of an argumentation structure, the PACKS model outlines the different types of knowledge required to define the content of those elements. This theoretical model needs further elaboration and substantiation. This will be achieved through a theoretical literature review, in which: 
+At the end of the dissertation, an extensive theoretical model is developed (see {numref}`fig_toulmin_packs`), which appears to be useful for further integrating argumentation and research. The presented model links the Toulmin argumentation model [@Toulmin2003] with the Procedural and Conceptual Knowledge in Science (PACKS) model [@Millar1994]. While the Toulmin model describes the elements of an argumentation structure, the PACKS model outlines the different types of knowledge required to define the content of those elements. This theoretical model needs further elaboration and substantiation. This will be achieved through a theoretical literature review, in which: 
 1. the necessity of integrating argumentation and research will be further argued, 
 2. the theoretical model will be expanded, and 
 3. its practical implementation (along with the associated implications for education) will be developed.
@@ -67,8 +41,6 @@ Various follow-up studies have been proposed in the dissertation that require fu
 * If research knowledge is developed in physics education, to what extent is this knowledge relevant in other subjects, and how can we facilitate this knowledge transfer? 
 * What knowledge do teachers actually need, and how can we optimally train them to teach research skills? 
 In collaboration with TUD's teacher education program, particularly within master's research projects, various studies are and will be conducted to address these questions.
-
-Learning how to conduct a thorough research project is important, but convincingly conveying the study into a publication (in any form) has proven to be challenging [REF ]. This requires a deep understanding of the scientific purpose of research and its dissemination (a strong connection to argumentation), and the development of creativity and a sense of language. With the advent of large artificial language models such as ChatGPT, writing and writing education seem to be placed in an entirely new perspective [ REF ]. In this practice-oriented study, we aim to connect with research on the use of ChatGPT as a meaningful coach in writing reports [REF ].
 
 Funding for ongoing research is being sought through one of the NRO calls for long-term research, see for example here. The research on writing education is included in the Comenius grant application.
 
@@ -97,27 +69,11 @@ The developed materials will be arranged in a coherent teaching-learning sequenc
 
 ## Supervising
 
-As a faculty member in Applied Physics with a research focus on physics education, my work bridges the gap between fundamental physics and the scholarship of teaching and learning. My research aims  especially on enhancing physics education by integrating inquiry learning, argumentation, and conceptual understanding into instructional practices.
+As a faculty member in Applied Physics with a research focus on physics education, my work bridges the gap between fundamental physics and the scholarship of teaching and learning. My research aims especially on enhancing physics education by integrating inquiry learning, argumentation, and conceptual understanding into instructional practices.
 
 One of the challenges in this field is the limited availability of large-scale funding opportunities that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. There are research grants for education, but these foremost are focussed on education in general - resulting in a very divers field of applicants and reviewers (not aware of the issue in a specific educational domain). Despite these constraints, I have actively pursued funding opportunities and have been committed to supervising and mentoring researchers in this domain.
 
 Given the structural realities of education research, I build research capacity through mentoring, collaboration, and embedded research. For instance, in addition to my own research endeavors, I (try to) play a role in supporting [assistant/associate professors and colleagues](#pub_with_colleagues) who wish to investigate their own teaching practices. Moreover, [several papers](#pub_with_students) have been written with students on their projects done in the first year physics lab course, allowing them to gain some experience in the publishing process. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
-
-```{warning}
-show that working with other is not incidental, but a deliberate, field-aware strategy. It builds capacity.
-
-What “capacity building” looks like in your case
-
-Without adding new activities, your work already shows that you:
-
-enable colleagues to turn teaching into research,
-
-create publication opportunities for students,
-
-translate innovation grants into scholarly output,
-
-support others through reviewing and proposal feedback.
-```
 
 My leadership in this area strengthens the faculty's commitment to high-quality physics education and enhances our collective ability to contribute to the field. By fostering an environment where research-based teaching improvements are systematically explored and documented, I am actively shaping the future of physics education both within our faculty and beyond.
 

@@ -17,34 +17,23 @@ Collaborative data collection: shifting focus on meaning making during practical
     *Physics Education*, 56(3), 035027.  
     Pols, F.
 
-
-## Books
-SdF 2,3 en online
-chapters in handboek
-
 (books)=
 ## Books & Chapters
-*   Broekzakdemos (2026)
-    NVON
-    van den Berg, E & Pols, F
+*   {cite:t}`pols2017leerstofdomeinen`
 
-*   Show the physics (2024)  
-    NVON & TUD  
-    Pols, F. & Dekkers, P.J.J.M.
+*   {cite:t}`pols2026lerenonderzoeken`
 
-*   ShowdeFysica 3: Natuurkunde laat je zien (2023)  
-    NVON  
-    Frederik, I., van den Berg, E., , Dekkers, P., Pols, F., Sonneveld, W., Spaan, W., van Veen, N., Staderman, K. 
+*   {cite:t}`pols2026practicumdidactiek`
 
-*   ShowdeFysica 2: Natuurkunde laat je zien (2017)    
-    NVON  
-    Frederik, I., van den Berg, E., te Brinke, L., Dekkers, P., Pols, F., Sonneveld, W., Spaan, W., van Veen, N., van Woerkom, M. 
+*   {cite:t}`berg2026pocket`
 
-*   Leerstofdomeinen: Technische automatisering (2017)   
-    Chapter in Kortland, K., Mooldijk, A. Poorthuis, H., Handboek natuurkundedidactiek, 206-211.  
-    Epsilon  
-    Mooldijk, A. & Pols, C.F.J. 
+*   {cite:t}`showthephysics`
 
+*   {cite:t}`showdefysica2`
+
+*   {cite:t}`showdefysica3`
+
+*   {cite:t}`mudde2026`
 
 
 (nat_ed_pap)=

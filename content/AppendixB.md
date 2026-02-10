@@ -29,19 +29,19 @@ A detailed list of scientific publications with abstracts is available [here](ht
 ## Publications with colleagues
 A selection of papers co-authored with colleagues on education. 
 
-*   {cite:t}`ockhorst2024hands`
-
-*   {cite:t}`pols2023maker`
-
-*   {cite:t}`hut2020teaching`
-
-*   {cite:t}`pols2024eenvoudig`
-
 *   {cite:t}`bouwman2026themepark`
 
 *   {cite:t}`hermsen2026reflection`
 
 *   {cite:t}`docter2026electronic`
+
+*   {cite:t}`ockhorst2024hands`
+
+*   {cite:t}`pols2024eenvoudig`
+
+*   {cite:t}`pols2023maker`
+
+*   {cite:t}`hut2020teaching`
 
 *   {cite:t}`bradbury24pandemic`
 

@@ -7,17 +7,18 @@ When I was 16, I became an instructor in a martial art (Pencak Silat) that I was
 In hindsight, it thus seemed a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters.
 I have been teaching physics in secondary school for ten years (2009-2019).  
 
-Recognizing that I probably had not yet reached my full potential and wishing to set an example for my pupils that learning is a lifelong journey, I applied for [NWO Doctoral Grant for Teachers](https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren).
+Recognizing that I probably had not yet reached my full potential and wishing to set an example for my pupils that learning is a lifelong journey, I applied for the [NWO Doctoral Grant for Teachers](https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren).
 This grant was awarded in 2014, allowing me to do a PhD. (0.4 FTE - 5 years) on teaching scientific inquiry in physics {cite:p}`pols2023development`.  
 
 In 2019 I switched from secondary education to university to become the coordinator of the First Year Physics Lab Course (FYPLC) with the task to innovate this course.
 
 (labcourseinnovation)=
 ## Innovating lab courses
-In 2019 I started my position at TU Delft as a lecturer/innovator of two lab courses.
+In 2019 I started my position at TU Delft as a lecturer/innovator of two lab courses: the First Year Physics Lab Course (FYPLC) and Introduction to Experiments in Physics, a course for the minor modern physics.
 
 The first-year physics lab course (TN1405, 6 ECTS) was largely unchanged from its format in 2004 when I took the course as a first-year student.
 The course had run more or less the same for 40 years and was not much appreciated in the last two decades.
+
 The course that was taught for third year minors (TN2985 - 2 ECTS) was a one-on-one translation of the first year course and was not much appreciated by the students.
 
 The assignment given by Prof. Chris Kleijn (then program director) had three objectives:
@@ -45,19 +46,20 @@ To summarize, the main changes in the FYPLC that were implemented are:
 Students working in the First Year Physics Lab Course (FYPLC) on the new experiment to determine the gravitational acceleration *g* with 0.1% accuracy.
 ```
 
-A completely new program was developed for the minor course.
+A new program was developed for the minor course.
 Students now enjoy significant flexibility, both in progressing at their own pace (for Python and report writing) and in choosing experiments.
 As a result, student satisfaction increased from **5.7 (2019) to 8.0 (2020) to 8.2 (2021) and 8.4 (2025)**.  
 
 Note that a **6-ECTS practicum** with around **240 students** cannot function without TAs. Major changes have been implemented here as well: Active recruitment has been established, based on performance, engagement, and interest during the academic year.
-Efforts have also been made to retain TAs longer, partly through specialized ITAV training.
-The total number of TA hours was reduced by **scaling up**, conducting the same experiments in a studio classroom, and designating one day for centralized (online) instruction.  
+Efforts have also been made to retain TAs longer, partly through specialized ITAV training and targeted professional development.
+But also by granting them greater responsibility and agency, and by creating a supportive and inclusive TA environment.
+The total number of TA hours was reduced by **scaling up**, conducting the same experiments in a studio classroom, and designating one day for centralized (online) instruction (resulting in a yearly cost reduction of ~30k€).  
 
 With the renewed physics curriculum of 2025, the FYPLC has been further adapted.
-Rather than one course it is now split into two courses of 5 ECTS each, one in the first quarter and one in the second quarter.
+Rather than one lab course, it now consist of two courses of 5 ECTS each, one in the first quarter and one in the second quarter.
 The first course was directly adopted from the previous FYPLC, no adjustments were needed.
-The second course however was redesigned to better align with the content of the second quarter (thermodynamics).
-Together with Roel Smit we designed nine laboratory activities and ten thermodynamic simulations aiming to develop better understanding of thermodynamic concepts at the macroscopic level through a focus on microscopic particle behavior.
+The second course, however, was redesigned to better align with the content of the second quarter (thermodynamics).
+Together with Roel Smit we designed nine laboratory activities and ten thermodynamic simulations aiming to develop better understanding of thermodynamic concepts at the macroscopic level through a focus on microscopic particle behavior, as seen in {numref}`fig_deeltjes`.
 
 ```{figure} ../figures/deeltjes.*
 :label: fig_deeltjes

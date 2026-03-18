@@ -1,5 +1,5 @@
 (ch.valorization)=
-# Valorization, impact, leadership, organization
+# Valorization, impact, organization
 
 For some, it is straightforward to distinguish between Impact, valorization, leadership, organization. However, in my case these dimensions are inherently intertwined due to the nature of my work. My research in physics education, teaching, and the dissemination of both research findings and educational materials create impact, shows leadership, ...
 
@@ -40,8 +40,7 @@ Together with TU Delft colleague Peter Dekkers we published the interactive book
 ```
 
 
-(leadership)=
-## Leadership
+
 I initiated and lead an inter-faculty open science project on the use of Jupyter Book as a platform for writing and publishing open scientific articles (including open data) and research related work (BEP & MEP thesis). The aim is to demonstrate a seamless, sustainable workflow. Students and researchers can collaboratively develop content that is interactive, version-controlled, and ready for web and print publication. By introducing early careers (students) to open publication, we prepare the next generation to adopt it seamlessly. 
 
 initieren van projecten? sutq voorstel over leerlijn onderzoeken die helpt het vormgeven van het nieuwe curriculum van de lerarenopleiding.

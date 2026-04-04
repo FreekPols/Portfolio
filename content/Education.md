@@ -3,9 +3,9 @@
 
 I think one of my first experiences with teaching is instructing sailing at an age of 14. At upper secondary school, I was a tutor for several years, helping fellow students with mathematics and physics. When I was 16, I became an instructor in a martial art (Pencak Silat). In hindsight, it thus seemed a logical step to do the minor education in my third year of the study Applied Physics and to become a secondary school teacher after my masters. I have been teaching physics in secondary school for ten years (2009-2019).  
 
-Recognizing that I probably had not yet reached my full potential and wishing to set an example for my pupils that learning is a lifelong journey, I applied for the [NWO Doctoral Grant for Teachers](https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren). This grant was awarded in 2014, allowing me to do a PhD. (0.4 FTE - 5 years) on teaching scientific inquiry in physics {cite:p}`pols2023development`.  
+Recognizing that I probably had not yet reached my full potential and wishing to set an example for my pupils that learning is a lifelong journey, I applied for the [NWO Doctoral Grant for Teachers](https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren). This grant was awarded in 2014, allowing me to do a PhD. study (0.4 FTE - 5 years) on teaching scientific inquiry in physics {cite:p}`pols2023development`.  
 
-In 2019 I switched from secondary education to university to become the coordinator of the First Year Physics Lab Course (FYPLC) with the task to innovate this course.
+In 2019 I switched from secondary education to university and became the coordinator of the First Year Physics Lab Course (FYPLC) with the task to innovate this course.
 
 (labcourseinnovation)=
 ## Innovating lab courses
@@ -42,6 +42,7 @@ To summarize, the main changes in the FYPLC that were implemented are:
 Students working in the First Year Physics Lab Course (FYPLC) on the new experiment to determine the gravitational acceleration *g* with 0.1% accuracy.
 ```
 ````
+
 
 A new program was developed for the minor course.
 Students now enjoy significant flexibility, both in progressing at their own pace (for Python and report writing) and in choosing experiments.

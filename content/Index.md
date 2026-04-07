@@ -21,7 +21,7 @@ no-update-date: true
 Science & Engineering Education  
 TU Delft
 
-```{figure} ../figures/OE award.png
+```{figure} ../figures/TUD_lib1.jpg
 ```
 
 +++

@@ -36,6 +36,8 @@ Together with TU Delft colleague Peter Dekkers we published the interactive book
 ````
 
 
+Moreover, the open science project that I lead has the potential to change the way bachelor and master thesis are produced. Our workflow has been proven to be feasible: the first theses have been made. Notably, students who have heard of the project are enthusiastic about about it and eager to try it. In the next five years, I will continue to lead this project, and I will work on scaling it up to more students and more faculties. I will also work on disseminating the results of the project, both internally and externally, to inspire other universities to adopt a similar approach.
+
 I initiated and lead an inter-faculty open science project on the use of Jupyter Book as a platform for writing and publishing open scientific articles (including open data) and research related work (BEP & MEP thesis). The aim is to demonstrate a seamless, sustainable workflow. Students and researchers can collaboratively develop content that is interactive, version-controlled, and ready for web and print publication. By introducing early careers (students) to open publication, we prepare the next generation to adopt it seamlessly. 
 
 initieren van projecten? sutq voorstel over leerlijn onderzoeken die helpt het vormgeven van het nieuwe curriculum van de lerarenopleiding.

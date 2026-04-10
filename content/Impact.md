@@ -5,6 +5,10 @@ My main focus in valorization is on open education, which I see as a crucial asp
 
 My commitment to open pedagogy is reflected in my efforts to not only create open educational resources but also to openly share the pedagogical principles and methods that underpin these materials. This includes documenting best practices, sharing experiences, and fostering a culture of collaboration. I actively engage in these activities at local, national, and international levels.
 
+```{warning} Open science festival committee
+
+```
+
 (local)=
 ### Local:
 At our university I initiated and participated in various initiatives to promote open pedagogy. For example, I contributed several times to the TU Delft Education Day, TNW education day and Teaching Lab by conducting workshops and presentations (e.g. [Python4All](https://www.tudelft.nl/meet-eat-python4all-sharing-ideas-and-experiences-of-python-programming-at-introductory-level-24-october)). I also organized a TU Delft-wide day focused on [Python for educators](https://www.tudelft.nl/evenementen/2024/teaching-academy/python-in-teaching-14-march), emphasizing the use of open tools and methods in teaching.

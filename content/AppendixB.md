@@ -35,8 +35,6 @@ A selection of papers co-authored with colleagues on education.
 
 *   {cite:t}`docter2026electronic`
 
-*   {cite:t}`ockhorst2024hands`
-
 *   {cite:t}`pols2024eenvoudig`
 
 *   {cite:t}`pols2023maker`
@@ -44,6 +42,12 @@ A selection of papers co-authored with colleagues on education.
 *   {cite:t}`hut2020teaching`
 
 *   {cite:t}`bradbury24pandemic`
+
+(pub_with_ock)=
+## Publications with Rutger Ockhorst
+*   {cite:t}`ockhorst2024hands`
+
+*   {cite:t}`ockhorst2025development`
 
 (pub_with_students)=
 ## Publications with students

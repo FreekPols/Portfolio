@@ -3,9 +3,8 @@
 Below are the appendices with additional information on my academic activities categorized by the three different sections in this document. 
 
 
-(int_ed_pap)=
+
 ## Educational papers (international)
-A detailed list of educational publications with abstracts is available [here](https://polslab.tnw.tudelft.nl/index.php?page=Publications).
 
 
 (Software)=

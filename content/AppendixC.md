@@ -1,6 +1,12 @@
 (App.Valorization)=
 # Valorization
 
+(int_ed_pap)=
+## Educational papers (international)
+
+A detailed list of educational publications with abstracts is available [here](https://polslab.tnw.tudelft.nl/index.php?page=Publications).
+
+
 *   The scientific graphic organizer for lab work.  
     *The Physics Teacher*, 62(1), 20-21.  
     Pols, F.  

@@ -10,6 +10,7 @@ project:
     - file: content/Research.md
     - file: content/Impact.md
     - file: content/Leadership.md
+    - file: content/Final Remarks.md
     - file: content/Appendix.md
       children:
       - file: content/AppendixA.md

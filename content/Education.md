@@ -48,7 +48,7 @@ A new program was developed for the minor course.
 Students now enjoy significant flexibility, both in progressing at their own pace (for Python and report writing) and in choosing experiments.
 As a result, student satisfaction increased from 5.7 (2019) to 8.0 (2020) to 8.2 (2021) and 8.4 (2025).  
 
-Note that a 6-ECTS practicum with around 240 students cannot function without TAs. Major changes have been implemented here as well: Active recruitment has been established, based on performance, engagement, and interest during the academic year.
+Note that a 6-ECTS practicum with around 240 students cannot function without TAs. Major changes have been implemented here as well: Active recruitment has been established based on performance, engagement, and interest during the academic year.
 Efforts have also been made to retain TAs longer, partly through specialized ITAV training and targeted professional development.
 But also by granting them greater responsibility and agency, and by creating a supportive and inclusive TA environment.
 The total number of TA hours was reduced by scaling up, conducting the same experiments in a studio classroom, and designating one day for centralized (online) instruction (resulting in a yearly cost reduction of ~30k€).  
@@ -66,6 +66,8 @@ Together with Roel Smit we designed nine laboratory activities and ten thermodyn
 One of the simulations students have to develop where they compare Brownian motion of gas particles (red and blue) to a single heavier atom (black dot). The trajectories of a single light and the heavy particles are shown. Note that the full animation can be seen online only.
 ```
 
+Many of the changes implemented in the FYPLC have been adopted by other lab course, especially Design Engineering for Physicists (DEF) and the second year lab course.
+
 (teachereducation)=
 ## Teaching in the teacher education program
 I have been involved in the teacher-education program at TU Delft already for a long time. It started with teaching specialized topics as *labwork in science education* and *the use of ICT in physics education*. Over the years my involvement has increased, contributing (e.g.) to the development of a new course (implementation of education) - where students ought to consider the merits and trade-offs of different educational approaches (like doing an [educational escaperoom](https://freekpols.github.io/EscapeTheClassroom/)) and test it in their own class.
@@ -78,7 +80,7 @@ An educational escaperoom I designed and further improved and made open access a
 ```
 ````
 
-With the upcoming retirement of the main physics teacher educator, my involvement in the program has increased, e.g. in supervising master thesis projects. Related to this is my senior university teaching qualification (SUTQ) project. The SUTQ project focused on *The development of a learning pathway on scientific inquiry in the teacher-education program*. The teacher education program lacked a coherent sequence on educational research whilst students of the two year masters program were still expected to do a research project. Moreover, the various teachers involved seem to have different opinions about the role and nature of educational research in the program. In the SUTQ project (2025-2026) I addressed *why, what, when, by whom, and how we are teaching educational research in TU Delft’s teacher-education program*. This project has led to a blueprint for a learning pathway which is currently further developed and implemented. 
+With the upcoming retirement of the main physics teacher educator, my involvement in the program has increased, e.g. in supervising master thesis projects. Related to this is my senior university teaching qualification (SUTQ) project. The SUTQ project focused on *The development of a learning pathway on scientific inquiry in the teacher-education program*. The teacher education program lacked a coherent teaching sequence on educational research whilst students of the two year masters program were still expected to do a research project. Moreover, the various teachers involved seem to have different opinions about the role and nature of educational research in the program. In the SUTQ project (2025-2026) I addressed *why, what, when, by whom, and how we are teaching educational research in TU Delft’s teacher-education program*. This project has led to a blueprint for a learning pathway which is currently further developed and implemented. 
 
 
 (visiononeducation)=
@@ -91,7 +93,7 @@ In the teacher-education program I use a similar approach: there are so many way
 
 This philosophy sets me as a teacher not in front of the class but in the middle of the classroom, coaching and guiding students in their learning process. I see my role as that of a facilitator who creates an environment (and materials) where students can explore, experiment, and learn from their experiences. This is not always successful as some students are more acquainted with the idea *"tell me what to do, and I will do that (for you)"*. However, in the end they all seem to benefit from my approach. 
 
-**Technology:** I like exploring new ways of teaching, especially with the use of technology. I explored and implemented the use of interactive textbooks (see [impact section](#ch.valorization)), and the use of ChatGPT. The latter might especially help students in writing - where I see a lot of potential but also want to be cautious that the AI is not taking over their thinking (and thus their learning process). Again, I want students to be able to develop a sense of what quality is, recognize it and therefore understand whether to adopt and adapt a text produced by genAI. Moreover, I have some caution as there is so much fun in finding things out.
+**Technology:** I like exploring new ways of teaching, especially with the use of technology. I explored and implemented the use of interactive textbooks (see [impact section](#ch.valorization)), and the use of ChatGPT. The latter might especially help students in writing - where I see a lot of potential but also want to be cautious that the AI is not taking over their thinking (and thus their learning process). Again, I want students to be able to develop a sense of what quality is, recognize it and therefore understand whether to adopt and adapt a text produced by genAI. Moreover, I have some caution as there is so much fun in finding things out [@feynman1983pleasure].
 
 **Future:** I aspire to continue my role in both the educational program of Applied Physics and the teacher-education program. I enjoy teaching physics, in particular teaching scientific inquiry. At the same time, I am increasingly aware of the societal urgency of the teacher shortage. I believe that universities have an important responsibility in addressing this challenge. Universities should not only be educating future engineers and scientists, but also actively stimulating and supporting students who may consider a career in education. Besides, I really like inspiring future teachers and enjoy their creative ways of engaging pupils in physics.
 

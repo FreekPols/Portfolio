@@ -25,21 +25,21 @@ Collaborative data collection: shifting focus on meaning making during practical
 
 (books)=
 ## Books & Chapters
-*   {cite:t}`pols2017leerstofdomeinen`
+*   {cite:t}`pols2017leerstofdomeinen` *Leerstofdomeinen: Technische automatisering.*
 
-*   {cite:t}`pols2026lerenonderzoeken`
+*   {cite:t}`pols2026lerenonderzoeken` *Leren onderzoeken*
 
-*   {cite:t}`pols2026practicumdidactiek`
+*   {cite:t}`pols2026practicumdidactiek` *Practicumdidactiek*
 
-*   {cite:t}`berg2026pocket`
+*   {cite:t}`berg2026pocket` *Pocketdemo's*
 
-*   {cite:t}`showthephysics`
+*   {cite:t}`showthephysics` *ShowdeFysica 1*
 
-*   {cite:t}`showdefysica2`
+*   {cite:t}`showdefysica2` *ShowdeFysica 2*
 
-*   {cite:t}`showdefysica3`
+*   {cite:t}`showdefysica3` *ShowdeFysica 3*
 
-*   {cite:t}`mudde2026`
+*   {cite:t}`mudde2026`  *Introduction to mechanics and special relativity*
 
 
 (nat_ed_pap)=
@@ -148,28 +148,28 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
     A platform with an extensive start template allowing teachers to easily create their own educational resources.
 
 
-*   [plain_typst_template](https://github.com/myst-templates/plain_typst_book):
+*   [plain_typst_template](https://github.com/myst-templates/plain_typst_book)  
     A minimal Typst book template for Jupyter Book users, allowing users to create a high-quality PDF version of their Jupyter Book content using Typst.
 
 *   [Starterkit]()
 
 
-*   [typst_thesis_template]()
-    A 
+*   [typst_thesis_template]()  
+    A template for master thesis using Typst with Jupyter Book.
 
 
-*   [latex_thesis_template]()
+*   [latex_thesis_template]()  
+    A template for master thesis using LaTeX with Jupyter Book.
 
-
-*   [Myst plugins](https://github.com/jupyter-book/myst-plugins/):
+*   [Myst plugins](https://github.com/jupyter-book/myst-plugins/)  
     This repro where plugins that extend the features of Jupyter Book was initiated by me. Several plugins were developed. Notably the last_updated_page, a plugin that shows when the page was last updated, is well appreciated and used in several projects.
 
 
-*   [Jupyter Book](https://jupyterbook.org)
+*   [Jupyter Book](https://jupyterbook.org)  
     I contribute to the documentation of the Jupyter Book project. I created the gallery, made several edits and wrote the section on [gitlab and gitlab pages](https://mystmd.org/guide/deployment-gitlab).
 
 
-*   [Tutorial](https://jupyter-book.github.io/workshop-template/)
+*   [Tutorial](https://jupyter-book.github.io/workshop-template/)  
     Together with Jim Madge (the turing way) and Robert Lanzafame we created a Jupyter Book workshop which can be used for training purposes and is an easy entrance to Jupyter Book projects.
 
 
@@ -180,22 +180,23 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
 
 | Year | Title | Call | Main applicant | Accepted |
 | --- | --- | --- | --- | --- |
-| 2014 | The interactive whiteboard as intervention during practical work in physics class to increase students learning  | NRO: Promotiebeurs voor leraren | V | V |
-| 2023 | Perspective Agility for Navigating Diversity, Collaboration and Conflict in order to advance Equity and Inclusion | NRO: Comenius Senior fellow | X | V |
+| 2014 | **The interactive whiteboard as intervention during practical work in physics class to increase students learning**  | NRO: Promotiebeurs voor leraren | V | V |
+| 2023 | **Perspective Agility for Navigating Diversity, Collaboration and Conflict in order to advance Equity and Inclusion** | NRO: Comenius Senior fellow | X | V |
 | 2023 | A modular programming book for engineering students| TUD Open Education Stimulation Fund | X | X |
-| 2023 | Opening Up Classroom Demonstration Experiments | TUD Open Education Stimulation Fund  | X | V |
-| 2023 | The road to scientific inquiry  | TUD Education Fellowship  | V | V |
+| 2023 | **Opening Up Classroom Demonstration Experiments** | TUD Open Education Stimulation Fund  | X | V |
+| 2023 | **The road to scientific inquiry**  | TUD Education Fellowship  | V | V |
 | 2023 | To ChatGPT, or not to ChatGPT: Effectief gebruik van Artificial Intelligence in het onderwijs | NRO: Comenius teaching fellowship | V  | X |
 | 2024 | Integration of Argumentation and Engineering Design|  NRO: edVenturous Questions  | V  | X |
 | 2024 | Towards a coherent curriculum: Guiding curriculum transformation through educational design theory | NRO: Hoger onderwijs van de toekomst | X | X |
 | 2024 | From Closed to Open: Bottom-up Open Educational Resources with and for pre-service teachers | NRO: Comenius teaching fellowship  | V | X |
-| 2024 | Curriculum | TUD Education Fellowship | X | V |
+| 2024 | **Researching the renewed AP curriculum** | TUD Education Fellowship | X | V |
 | 2025 | The Scientific Graphic Organizer as aid for practical work in science subjects| NRO: Pareltjes uit de praktijk | X | X |
 | 2025 | gAI in secondary education – designing exemplary activities to develop student and teacher competences | NRO: Kennis voor de toekomst, Klein  | X | X |
 | 2025 | Integration of Argumentation and Engineering Design| NRO: Kennis voor de toekomst, Middel | V | X |
 | 2025 | Building Thinking Classrooms in Wiskunde-, Natuurkunde- en Scheikundeonderwijs | NRO: Kennis voor de toekomst, Middel | X | X |
 | 2025 | Student-Centred Learning with AI Tutors in Project Work | TUD: AI-Augmented Engineering Education | V | X |
-| 2025 | Jupyter Books for education & open publishing: Next Level | TUD Open Science Fund | X | V |
+| 2025 | **Jupyter Books for education & open publishing: Next Level** | TUD Open Science Fund | X | V |
 | 2025 | Doe de Fysica | Betadecanen | V | X |
-| 2025 | An affordable and adaptive educational escaperoom | Open Hardware| V | V |
-| 2025 | Connecting and boosting open science and open education through JupyterBook | Open Science | V | V |
+| 2025 | **An affordable and adaptive educational escaperoom** | TUD Open Hardware Fund| V | V |
+| 2025 | **Connecting and boosting open science and open education through JupyterBook** | TUD Open Science Fund | V | V |
+| 2026 | Connecting open science and open education through digital interactive, executable narratives | NWO | V | ? |

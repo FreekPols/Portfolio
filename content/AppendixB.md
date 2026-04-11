@@ -7,31 +7,28 @@ A selection of relevant research outputs supporting ...
 ## Scientific publications
 A detailed list of scientific publications with abstracts is available [here](https://polslab.tnw.tudelft.nl/index.php?page=Publications).
 
-*   {cite:t}`pols2026OER`
+*   {cite:t}`pols2026OER` *Open Online Interactive Textbooks in Engineering Education: The Delft University of Technology Case.*
 
-*   {cite:t}`bickel2026genAI`
+*   {cite:t}`bickel2026genAI` *Comparing and contrasting students’ and faculty perceptions and utilization of GenAI.* 
 
-*   {cite:t}`de2025exploring`
+*   {cite:t}`de2025exploring` *Exploring the role of generative AI in science teacher education programs: a qualitative study.* 
 
-*   {cite:t}`pols2024redesigning`
+*   {cite:t}`pols2024redesigning` *Redesigning a first year physics lab course on the basis of the procedural and conceptual knowledge in science model.* 
 
-*   {cite:t}`pols2023integrating`
+*   {cite:t}`pols2023integrating` *Integrating argumentation in physics inquiry: A design and evaluation study*  
 
-*   {cite:t}`pols2022would`
+*   {cite:t}`pols2022would` *Would you dare to jump? Fostering a scientific approach to research in secondary physics education.* 
 
-*   {cite:t}`pols2022defining`
+*   {cite:t}`pols2022defining` *Defining and assessing understandings of evidence with the assessment rubric for physics inquiry: Towards integration of argumentation and inquiry.*
 
-*   {cite:t}`pols2021they`
+*   {cite:t}`pols2021they` *What do they know? Investigating students’ ability to analyse experimental data in secondary physics education.*  
 
-*   {cite:t}`pols2019introducing`
+*   {cite:t}`pols2019introducing` *Introducing argumentation in inquiry—a combination of five exemplary activities*  
+
 
 (pub_with_colleagues)=
 ## Publications with colleagues
 A selection of papers co-authored with colleagues on education. 
-
-*   {cite:t}`bouwman2026themepark`
-
-*   {cite:t}`hermsen2026reflection`
 
 *   {cite:t}`docter2026electronic`
 
@@ -62,8 +59,7 @@ A selection of papers co-authored with students.
 
 *   {cite:t}`pols2026honey`
 
-*   {cite:t}`pols2026thermo`
-`
+
 
 (thesis)=
 ## Master thesis supervision

@@ -142,6 +142,39 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
     Pols, C.F.J. 
 
 
+(Software)=
+## Software & Educational tools
+*   [Teachbooks](https://teachbooks.io)  
+    A platform with an extensive start template allowing teachers to easily create their own educational resources.
+
+
+*   [plain_typst_template](https://github.com/myst-templates/plain_typst_book):
+    A minimal Typst book template for Jupyter Book users, allowing users to create a high-quality PDF version of their Jupyter Book content using Typst.
+
+*   [Starterkit]()
+
+
+*   [typst_thesis_template]()
+    A 
+
+
+*   [latex_thesis_template]()
+
+
+*   [Myst plugins](https://github.com/jupyter-book/myst-plugins/):
+    This repro where plugins that extend the features of Jupyter Book was initiated by me. Several plugins were developed. Notably the last_updated_page, a plugin that shows when the page was last updated, is well appreciated and used in several projects.
+
+
+*   [Jupyter Book](https://jupyterbook.org)
+    I contribute to the documentation of the Jupyter Book project. I created the gallery, made several edits and wrote the section on [gitlab and gitlab pages](https://mystmd.org/guide/deployment-gitlab).
+
+
+*   [Tutorial](https://jupyter-book.github.io/workshop-template/)
+    Together with Jim Madge (the turing way) and Robert Lanzafame we created a Jupyter Book workshop which can be used for training purposes and is an easy entrance to Jupyter Book projects.
+
+
+
+
 (Grants)=
 ## Grants & Applications
 

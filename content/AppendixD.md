@@ -3,23 +3,45 @@
 ## Conferences, workshops & trainings
 https://polslab.tnw.tudelft.nl/index.php?page=Conferences
  
+**2026**
+
+*   Pocketdemo's
+
+*   Workshop Paris
+
+
+
 **2025**  
+*   Pocketdemo's  
+    A workshop at the WND conference on physics demonstrations with materials readily available.  
+    Berg, E. v.d. & Pols, C.F.J.
+
+
+*   WND eindlezing  
+    A invite plenary presentation at the WND conference on teaching scientific literacy.   
+    Pols, C.F.J.
+
+
 *   Integration of argumentation as prerequisite for effective practical work  
     A presentation on the integration of argumentation and practical work at the ESERA conference, Copenhagen, DK  
     Pols, C.F.J. & Dekkers, P.J.J.M.
+
 
 *   We've got 99 demonstrations and so much fun!  
     A workshop on physics demonstrations at the GIREP conference, Leiden, NL  
     Pols, C.F.J. & van Veen, N.
 
+
 *   Towards Open Physics Education: Teaching with Jupyter (Note)Books  
     A presentation on teaching with Jupyter Books at the GIREP conference, Leiden, NL  
     Pols, C.F.J. 
+
 
 *   Opening up Classroomdemonstrations  
     A workshop on physics demonstrations at the AAPT Winter Meeting, Saint Louis, USA  
     Pols, C.F.J.
     
+
 *   The Scientific Graphic Organizer for lab work  
     A posterpresentation on the SGO at the AAPT Winter Meeting, Saint Louis, USA  
     Pols, C.F.J.

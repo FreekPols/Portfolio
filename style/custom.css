@@ -13,3 +13,18 @@
 .updated-date-container {
   order: -1; /* Move it visually below the date */
 }
+
+/* for pull-up figure */
+figure.pull-up {
+  margin-top: -2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+figure.pull-up > figure {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+figure.pull-up figcaption {
+  margin-top: 0.25rem !important;
+}

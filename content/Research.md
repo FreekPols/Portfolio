@@ -1,6 +1,7 @@
 (ch.research)=
 # Research
 
+(Res_gen)=
 ## Research line into the integration of argumentation in science & engineering education
 
 Argumentation is at the core of scientific practice. It is the means by which scientists construct, justify, and communicate knowledge, ensuring that claims are rigorously tested and defended. From formulating hypotheses to interpreting data, from engaging in peer review to debating theoretical frameworks, argumentation permeates every aspect of scientific inquiry. Without it, science would not function as a self-correcting, evidence-based discipline.
@@ -21,7 +22,7 @@ My PhD research focused on integrating argumentation into scientific inquiry edu
 
 The Toulmin argumentation model integrated with the PACKS model, linking argumentation elements to types of knowledge required for scientific research.
 ```
-
+(argumentation_SI)=
 ### Integration of argumentation and scientific inquiry
 
 Enabling students to engage in basic scientific research is an important component of the curriculum in secondary and higher education [ REF ]. However, literature indicates that meaningfully implementing this (developing research skills and knowledge in students) is only minimally successful [ REF ]. In my PhD research, we have taken steps to address this issue {cite:p}`pols2023development`. We have demonstrated that argumentation is an indispensable but underemphasized aspect of education in scientific research. We also demonstrated that a focus on argumentation (viewing research as the construction of a scientifically convincing claim) leads students to develop a need for research knowledge, as they recognize that only the best answer to the research question suffices [@pols2023integrating].
@@ -40,7 +41,7 @@ In collaboration with TUD's teacher education program, particularly within maste
 
 Funding for ongoing research is being sought through one of the NRO calls for long-term research. 
 
-
+(argumentation_ED)=
 ### Integration of argumentation in engineering design
 Engineering Design (ED), the systematic and creative process of devising and constructing solutions for a specific problem, is a key component in STEM education {cite:p}`NRC2012; Vossen2019` and is integrated in the intended learning outcomes of all Dutch secondary science subjects {cite:p}`SLO2020`. ED is mainly meant to:
 - develop conceptual knowledge, strengthening (theoretical) subject matter taught through direct instruction {cite:p}`Stammesthesis`;
@@ -61,7 +62,7 @@ I aim to construct a theoretical framework, (PACKED-model) that links the variou
 
 Subsequently, using the central question: *How does the theoretical framework and a focus on argumentation facilitate teachers to design ED teaching-materials?* I aim to involve secondary school pre-service teachers in our teacher-education program and in-service teachers in a professional learning community {cite:p}`DuFour2004` to use the theoretical construct and derive design principles to design teaching materials and test these in their own practices. Using education design research {cite:p}`Akker2006`, we can investigate the teacher’s use of the framework and its facilitation in designing lessons. The developed materials will ultimately be arranged in a coherent teaching-learning sequence, where the need for integrating argumentation and ED is emphasized: each and every design decisions should be justifiable in light of producing the best available solution within certain practical constraints (finance, time, knowledge). 
 
-Again, a study of this nature and size requires long-term funding, which is being sought through one of the NRO calls for long-term research. However, in the field of educational research, there are limited opportunities for funding that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. There are research grants for education, but these foremost are focussed on education in general - resulting in a very divers field of applicants and reviewers (not aware of the issue in a specific educational domain). Despite these constraints, I have actively pursued funding opportunities to continue the research as outlined above. I have shown that with limited resources, I can continue doing research on physics and engineering education [@de2025exploring; @pols2024redesigning].
+Again, a study of this nature and size requires long-term funding, which is being sought through one of the NRO calls for long-term research. However, in the field of educational research, there are limited opportunities for funding that support the hiring of PhD students. Unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. There are research grants for education, but these foremost are focussed on education in general - resulting in a very divers field of applicants and reviewers (not aware of the issue in a specific educational domain). Moreover, teaching 6–8 day parts per week, being heavily involved in the new building, and serving on various committees at both local and national levels have limited the time available to focus on research. Despite these constraints, I have actively pursued funding opportunities to continue the research as outlined above. I have shown that with limited resources, I can continue doing research on physics and engineering education [@de2025exploring; @pols2024redesigning].
 
 ## Supervising
 
@@ -71,7 +72,7 @@ Given the structural realities of education research - the limited financial res
 
 Recently Rutger Ockhorst has started his PhD research on 'characteristics of a quantum mechanics teaching activity fostering a *need to know* in students'. We (me as a daily supervisor) have been working towards this start since 2023, where funding was sought for his project. During this initial phase, we have done several smaller studies resulting in two professional papers (see [Appendix B](#pub_with_ock)). In the next years he will focus on the development of a quantummechanics activity, most likely an experiment that is linked to the work and experiments done in QTech, that shows the particle and wave behavior of electrons. In both secondary and tertiary education, this dual nature of electrons are taken for granted - students seem hardly puzzled about it where physicists are. This project will investigate what the characteristics of such an activity are and whether it is feasible to transform an experiment done in QTech or QuantumNanoscience to an educational setting.
 
-
+(Res_rev)=
 ## Review
 ````{aside}
 ```{figure} ../figures/iop.PNG
@@ -83,6 +84,6 @@ Recently Rutger Ockhorst has started his PhD research on 'characteristics of a q
 ```` 
 I have been actively involved in review work for scientific journals ([PRPER](https://journals.aps.org/prper/)), professional journals ([phys. ed.](https://iopscience.iop.org/journal/0031-9120) for which I am an IoP's trusted reviewer.), conference proposals and proceedings ([GIREP](https://www.girep.org/)), and Dutch research proposals ([SoTL](https://www.nro.nl/onderzoeksprogrammas/scholarship-of-teaching-and-learning-sotl-beurs) & [NRO klein](https://www.nro.nl/calls/kennis-voor-onderwijs-van-de-toekomst-klein)) & TUD OESF. Furthermore, for the NRO's Scholarship of Teaching and Learning, I lead a TUD review committee to support teacher who applied for the NRO grant "scholarship of teaching and learning (SoTL)".
 
-
+(Res_refl)=
 ## Reflection
 I believe that the above illustrates that I found a niche in research that is worthy and interesting to pursue. I want to dedicate the next years to further develop this research line, and to contribute to the field of physics education research - at both secondary and tertiary level. Although have not had the opportunity to formally supervise PhD students yet, I am actively involved in mentoring and guiding researchers in this domain. Moreover, I am recognized and frequently consulted by colleagues and editors to review educational research proposals and manuscripts. Taken together, I am confident that I can make meaningful contribution to the research as well as serve our university by disseminating this knowledge to our students and colleagues.

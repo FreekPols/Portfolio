@@ -4,10 +4,12 @@ project:
   id: 414191ae-bd90-4c39-99fa-70d911b76cbd
   title: Vision statement
   description: Portfolio for the promotion to associate professor
-  authors: [Freek Pols]
-  github: https://freekpols.github.io/Portfolio/
+  authors: 
+    - name: Freek Pols
+      affiliation: TU Delft
+      github: freekpols
   bibliography: reference.bib
-  date: 2026-01-12
+  date: 2026-05-01
   
   plugins:
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updatedv1.1/page-last-updated.mjs

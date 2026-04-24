@@ -50,7 +50,7 @@ As a result, student satisfaction increased from 5.7 (2019) to 8.0 (2020) to 8.2
 
 Note that a 6-ECTS practicum with around 240 students cannot function without TAs. Major changes have been implemented here as well: Active recruitment has been established based on performance, engagement, and interest during the academic year.
 Efforts have also been made to retain TAs longer, partly through specialized ITAV training and targeted professional development.
-But also by granting them greater responsibility and agency, and by creating a supportive and inclusive TA environment.
+But also by granting them greater agency and responsibility, and by creating a supportive and inclusive TA environment.
 The total number of TA hours was reduced by scaling up, conducting the same experiments in a studio classroom, and designating one day for centralized (online) instruction (resulting in a yearly cost reduction of ~30k€).  
 
 With the renewed physics curriculum of 2025, the FYPLC has been further adapted.
@@ -66,7 +66,9 @@ Together with Roel Smit we designed nine laboratory activities and ten thermodyn
 One of the simulations students have to develop where they compare Brownian motion of gas particles (red and blue) to a single heavier atom (black dot). The trajectories of a single light and the heavy particles are shown. Note that the full animation can be seen online only.
 ```
 
-Many of the changes implemented in the FYPLC have been adopted by other lab course, especially Design Engineering for Physicists (DEF) and the second year lab course.
+The development of this second course is still ongoing. Based on the first iteration, we have identified several pitfalls and areas for improvement. One key aspect we aim to further develop is the use of version control systems (e.g. Git). The importance of coding, simulations, and collaborative workflows in physics has increased significantly over the past decades. However, many researchers have not been formally trained in these practices, making it essential to address this within our curriculum.
+
+Initial steps have been taken in this course, and we see clear opportunities to expand this further. Introducing these skills early in students’ academic careers can help prevent common issues encountered later on, particularly in master’s thesis projects, such as challenges related to version control, data management, and maintaining an efficient and reproducible workflow. These aspects directly contribute to an essential component of our university’s vision—open science—which requires more explicit and structured integration within our educational programs.
 
 (teachereducation)=
 ## Teaching in the teacher education program
@@ -82,6 +84,17 @@ An educational escaperoom I designed and further improved and made open access a
 
 With the upcoming retirement of the main physics teacher educator, my involvement in the program has increased, e.g. in supervising master thesis projects. Related to this is my senior university teaching qualification (SUTQ) project. The SUTQ project focused on *The development of a learning pathway on scientific inquiry in the teacher-education program*. The teacher education program lacked a coherent teaching sequence on educational research whilst students of the two year masters program were still expected to do a research project. Moreover, the various teachers involved seem to have different opinions about the role and nature of educational research in the program. In the SUTQ project (2025-2026) I addressed *why, what, when, by whom, and how we are teaching educational research in TU Delft’s teacher-education program*. This project has led to a blueprint for a learning pathway which is currently further developed and implemented. 
 
+(educationalist)=
+## An educationalist with (pedagogical) content knowledge
+At our university, we have many educationalists (onderwijskundigen). They are a great asset in many ways as they possess strong knowledge of education in general and can therefore support educators in designing their courses. However, when content-specific questions arise, this becomes more challenging, as they often do not have in-depth knowledge of, for example, quantum mechanics, coding, or fluid mechanics - commonly referred to as content knowledge. While they may know in general what an assessment should look like, operationalizing this within a specific context, such as a Python course, can be difficult.
+
+Conversely, our researchers have extensive knowledge of the subjects they teach. However, this does not necessarily imply that they know how to teach that subject effectively - referred to as _pedagogical content knowledge_ [@10.1016/B978-0-08-044894-7.00642-4].
+
+In this context, I position myself at the intersection of these domains. I can be considered an educationalist - conversant with educational literature - with both content knowledge and pedagogical content knowledge. I understand how lab courses can be designed and why certain measures work or do not work. I am involved in teaching introductory Python and am becoming increasingly engaged in teaching quantum mechanics (see next chapter). Many other physics related topic I have thought (albeit at a different level) and thus know the struggles students are coping with. Deep knowledge of both education and physics allows me to interpret student responses in a content-informed way, e.g., when asking a student _“why is an electron not a particle (or equally true, not a wave)?”_, I can assess not only the correctness of the answer but also what it reveals about their understanding of the dual nature of the electron.
+
+This combination of expertise enables me to support colleagues in translating general educational principles into discipline-specific practice. As a result, I am frequently consulted by researchers on educational questions. Examples include Gary Steele on the renewal of the Electronic Instrumentation course, Roel Smit on curriculum coherence, Margreet Docter on implementing a Just-In-Time-Teaching approach [@novak1999just] for the NB Electronics course, and Erik van der Kolk on the renewal of the second-year lab course, among others. Importantly, this role extends beyond our faculty’s educational programs: I am also consulted by colleagues in Aerospace Engineering, Mechanical Engineering, and Civil Engineering.
+
+Notably, this role also contributes to the broader educational program: several changes implemented in the First Year Physics Lab Course (FYPLC) have been adopted in other courses, particularly Design Engineering for Physicists (DEF) and the second-year lab course. In this way, my position at the intersection of content and pedagogy enables me to contribute not only to individual courses, but also to the coherence and development of the curriculum as a whole.
 
 (visiononeducation)=
 ## Vision statement on education

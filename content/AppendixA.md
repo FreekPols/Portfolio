@@ -40,3 +40,18 @@ This is a selection of the outputs related to the innovation of the lab courses.
 
 - @pols2024vitruvian: *The Vitruvian man: An introduction to measurement and data analysis*.  
 
+(supervisedTAs)=
+## Supervised TA's beyond regular course duties
+These TA's were engaged in developing content, making and discussing exams, helped develop software for the course and so on. 
+- Josh Sleijfer
+- Hugo de Groot
+- Hanna den Hartog
+- Luka Vinck
+- Laurent de Geus
+- Timo Gort
+- Suzanne Schuurman
+- Luuk Fröling
+- Maciej Topyla
+- Dion Hoeksema
+- Alek Heuvel
+- Folkert Straus

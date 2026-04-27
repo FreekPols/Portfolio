@@ -30,34 +30,36 @@ A detailed list of scientific publications with abstracts is available [here](ht
 ## Publications with colleagues
 A selection of papers co-authored with colleagues on education. 
 
-*   {cite:t}`docter2026electronic`
+*   {cite:t}`bouwman2026themepark` _Coherent teaching of mechanics with a theme park physics project_
 
-*   {cite:t}`pols2024eenvoudig`
+*   {cite:t}`docter2026electronic` _It's all about the BASICs: A framework for a minds-on electronic course_
 
-*   {cite:t}`pols2023maker`
+*   {cite:t}`pols2024eenvoudig` _Eenvoudig online boeken maken met Jupyter Book_
 
-*   {cite:t}`hut2020teaching`
+*   {cite:t}`pols2023maker`_Maker education in the applied physics bachelor programme at Delft University of Technology_
 
-*   {cite:t}`bradbury24pandemic`
+*   {cite:t}`hut2020teaching` _Teaching a hands-on course during corona lockdown: from problems to opportunities_
+
+*   {cite:t}`bradbury24pandemic` _A pandemic-resilient open-inquiry physical science lab course which leverages the Maker movement._
 
 (pub_with_ock)=
 ## Publications with Rutger Ockhorst
-*   {cite:t}`ockhorst2024hands`
+*   {cite:t}`ockhorst2024hands` _A hands-on activity to introduce the structure of NV-center quantum bits in diamond_
 
-*   {cite:t}`ockhorst2025development`
+*   {cite:t}`ockhorst2025development` _Development of the mental models of wave and particle as basis for wave-particle duality_
 
 (pub_with_students)=
 ## Publications with students
 A selection of papers co-authored with students.
-*   {cite:t}`pols2021students`
+*   {cite:t}`pols2021students` _Students’ report on an open inquiry_
 
-*   {cite:t}`pols2023radioactiviteit`
+*   {cite:t}`pols2023radioactiviteit` _De radioactiviteit van fruit_
 
-*   {cite:t}`pols2020bouw`
+*   {cite:t}`pols2020bouw` _Bouw een demoproef_
 
-*   {cite:t}`pols2023one`
+*   {cite:t}`pols2023one` _One setup for many experiments: enabling versatile student-led investigations_
 
-*   {cite:t}`pols2026honey`
+*   {cite:t}`pols2026honey` _Developing inquiry experience through curiosity-driven open inquiry_
 
 
 

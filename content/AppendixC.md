@@ -6,22 +6,20 @@
 
 A detailed list of educational publications with abstracts is available [here](https://polslab.tnw.tudelft.nl/index.php?page=Publications).
 
+*   {cite:t}`pols2024vitruvian` _The Vitruvian man: An introduction to measurement and data analysis_
 
-*   The scientific graphic organizer for lab work.  
-    *The Physics Teacher*, 62(1), 20-21.  
-    Pols, F.  
-Collaborative data collection: shifting focus on meaning making during practical work.  
-    *Physics Education*, 58(2), 023001.  
-    Pols, F., & Diepenbroek, P. 
+*   {cite:t}`pols2024scientific` _The scientific graphic organizer for lab work_ 
+
+*   {cite:t}`pols2023collaborative` _Collaborative data collection: shifting focus on meaning making during practical work_
+
+*   {cite:t}`pols2021s` _What’s inside the pink box? A nature of science activity for teachers and students_
+
+*   {cite:t}`pols2021sound` _The sound of music: determining Young’s modulus using a guitar string_
+
+*   {cite:t}`pols2015real` _Real or fake? What can students learn from debunking Hollywood physics?_
+
 
     
-*   What’s inside the pink box? A nature of science activity for teachers and students.  
-    *Physics Education*, 56(4), 045004.  
-    Pols, F. 
-
-*   The sound of music: determining Young’s modulus using a guitar string.  
-    *Physics Education*, 56(3), 035027.  
-    Pols, F.
 
 (books)=
 ## Books & Chapters
@@ -33,7 +31,7 @@ Collaborative data collection: shifting focus on meaning making during practical
 
 *   {cite:t}`berg2026pocket` *Pocketdemo's*
 
-*   {cite:t}`showthephysics` *ShowdeFysica 1*
+*   {cite:t}`showthephysics` *ShowthePhysics*
 
 *   {cite:t}`showdefysica2` *ShowdeFysica 2*
 
@@ -46,100 +44,58 @@ Collaborative data collection: shifting focus on meaning making during practical
 ## Educational papers (national)
 A detailed list of Dutch publications with abstracts is available [here](https://polslab.tnw.tudelft.nl/index.php?page=Seced).
 
-**2024**
 
-*   Practicum, wat hebben we (ervan) geleerd?  
-    *NVOX* 49(10), 22-23  
-    Pols, C.F.J. & van den Berg, E. & Dekkers, P.J.J.M.  
+*   {cite:t}`pols2024practicum` _Practicum, wat hebben we (ervan) geleerd?_
 
-*   Eenvoudig online boeken maken met Jupyter Book     
-    *NVOX* 49(8), 22-23  
-    Pols, C.F.J. & Idema, T.  
+*   {cite:t}`pols2024eenvoudig` _Eenvoudig online boeken maken met Jupyter Book_
 
-*   Leren onderzoeken  
-    *NVOX* 49(6), 50-51  
-    Pols, C.F.J.  
+*   {cite:t}`pols2019leren` _Leerlingen leren onderzoeken_
 
-**2023**
+*   {cite:t}`pols2023melk` _Melk in je koffie_
 
-*   Melk in je koffie  
-    *NVOX* 48 (5), 12-14.
-    Mooldijk, A. & Pols, C.F.J.  
+*   {cite:t}`pols2023natuurkunde` _De natuurkunde van Spiderman_
 
-*   De natuurkunde van Spiderman  
-    *NVOX* 48 (4), 34-35.  
-    Pols, C.F.J.  
+*   {cite:t}`pols2022proeven` _Proeven (v/a)an vroeger_
 
-**2022**
-*   Proeven (v/a)an vroeger.   
-    *NVOX* 47 (10), 286-286.  
-    Pols, C.F.J. 
+*   {cite:t}`pols2020eerstejaarspracticum` _Eerstejaarspracticum in tijden van COVID-19_
 
-**2021**
-*   Practica bij de valbeweging.   
-    *NVOX* 46 (10), 34-35.  
-    Pols, C.F.J.
+*   {cite:t}`pols2021practica` _Practica bij de valbeweging_
 
-*   Kritisch? Ik?! Ontwikkeling van een kritische houding in een leerlijn onderzoeken  
-    *NTvN*  
-    Pols, C.F.J.
+*   {cite:t}`pols2021kritisch` _Kritisch? Ik?! Ontwikkeling van een kritische houding in een leerlijn onderzoeken_
 
-**2020**
+*   {cite:t}`pols2020practicum` _Practicum, net even anders_
 
+*   {cite:t}`pols2019scientific` _De Scientific Graphic Organizer_
 
-*   Practicum, net even anders  
-    *NVOX* 45 (8), 438-439.  
-    Pols, C.F.J. 
+*   {cite:t}`pols2019mens` _De mens van Vetruvius_
 
-**2019**
-*   De Scientific Graphic Organizer   
-    *NVOX* 44 (8), 410-411.  
-    Pols, C.F.J. 
+*   {cite:t}`pols2018leerlingen` _Leren onderzoeken: een praktische aanpak in klas 4_
 
-*   De mens van Vetruvius   
-    *NVOX* 44 (6), 286-286.  
-    Pols, C.F.J.
+*   {cite:t}`pols2019leren` _Leerlingen leren onderzoeken_
 
-*   Leren onderzoeken: een praktische aanpak in klas 4.   
-    *NVOX* 44 (2), 98-99.  
-    Pols, C.F.J.
+*   {cite:t}`pols2018hellingproef` _De hellingproef: Een practicum over het ontbinden van krachten in componenten_
 
-*   Leerlingen leren onderzoeken  
-    Nederlands Tijdschrift voor Natuurkunde, 84 (11), 45-47.  
-    Pols, C.F.J.
+*   {cite:t}`pols2018beweging` _Beweging in stop-motion_
 
-*   De hellingproef: Een practicum over het ontbinden van krachten in componenten   
-    *NVOX*, 47 (8), 442-443.  
-    Pols, C.F.J. (2019). 
+*   {cite:t}`pols2017snaartheorie` _Snaartheorie in de praktijk_
 
-**2018**
-*   Beweging in stop-motion   
-    *NVOX*, 43 (5), 244-245.  
-    Pols, C.F.J.
+*   {cite:t}`pols2017technisch` _Technisch ontwerpen in 4V_
 
-**2017**
-*   Snaartheorie in de praktijk   
-    *NVOX*, 42 (2), 72-73.  
-    Pols, C.F.J. (2017). 
+*   {cite:t}`pols2016een` _Een leerlingpracticum quantummechanica voor minder dan € 30,-_
 
-*   Technisch ontwerpen in 4V.   
-    *NVOX*, 42 (1), 40-41.  
-    Pols, C.F.J. (2017). 
+*   {cite:t}`pols2016eengrafiek` _Een foto of grafiek zegt meer dan 1000 woorden_
 
-**2016**
+*   {cite:t}`pols2015versnelling` _Een versnelling langs een helling_
 
-*   Een leerlingpracticum quantummechanica voor minder dan € 30,-   
-    *NVOX*, 41 (3), 132-133  
-    Pols, C.F.J. & Nelk, J.P.
+*   {cite:t}`pols2012eendubbel` _Een dubbele proef_
 
-*   Een foto of grafiek zegt meer dan 1000 woorden   
-    *NVOX*, 41 (2), 68-69.  
-    Pols, C.F.J. 
-    
-**2014**
-*   Een versnelling langs een helling   
-    *NVOX*, 40 (4), 178-179  
-    Pols, C.F.J. 
+*   {cite:t}`pols2012competitie` _Competitie bootje vouwen_
+
+*   {cite:t}`pols2010schoolboeken` _Schoolboeken, toen en nu_
+
+*   {cite:t}`pols2011eindtoets` _De eindtoets voor het basisonderwijs_ 
+
+*   {cite:t}`pols2008vier` _Vier keer schieten voor weinig geld_
 
 
 (Software)=
@@ -151,15 +107,18 @@ A detailed list of Dutch publications with abstracts is available [here](https:/
 *   [plain_typst_template](https://github.com/myst-templates/plain_typst_book)  
     A minimal Typst book template for Jupyter Book users, allowing users to create a high-quality PDF version of their Jupyter Book content using Typst.
 
-*   [Starterkit]()
 
-
-*   [typst_thesis_template]()  
+*   [typst_thesis_template](https://jboss.tudelft.nl/templates/typst)  
     A template for master thesis using Typst with Jupyter Book.
 
 
-*   [latex_thesis_template]()  
+*   [latex_thesis_template](https://jboss.tudelft.nl/templates/latex)  
     A template for master thesis using LaTeX with Jupyter Book.
+
+
+*   [Starterkit](https://jboss.tudelft.nl/starterkit)  
+    A starterkit which provides students a headstart in writing and organizing their thesis project.
+
 
 *   [Myst plugins](https://github.com/jupyter-book/myst-plugins/)  
     This repro where plugins that extend the features of Jupyter Book was initiated by me. Several plugins were developed. Notably the last_updated_page, a plugin that shows when the page was last updated, is well appreciated and used in several projects.

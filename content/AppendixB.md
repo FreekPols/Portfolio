@@ -69,6 +69,6 @@ A selection of papers co-authored with students.
 
 2024 Master Thesis Farah Kidwai: De SGO met perspectiefvragen - Een ontwerponderzoek naar het bevorderen van micro-macro denken in de scheikunde begripspracticumles
 
-2025 Master Thesis Marcel Claus
+2025 Master Thesis Marcel Claus: Remediëring van wiskundige vaardigheden bij natuurkunde
 
 2025 Master Thesis Mila Dobrovinski

@@ -13,6 +13,8 @@ project:
   
   plugins:
     - https://github.com/jupyter-book/myst-plugins/releases/download/page-last-updatedv1.1/page-last-updated.mjs
+    # - https://raw.githubusercontent.com/choldgraf/myst-lightbox/main/src/index.mjs
+    - lightbox.mjs
 
 extends:
   - toc.yml

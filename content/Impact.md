@@ -20,23 +20,6 @@ Together with Rob Mudde, I created the book [Introducing Classical Mechanics & S
 I initiated and lead an [inter-faculty open science project](https://jboss.tudelft.nl). Together with Saullo Castro (AE), Gary Steele (AS), Rolf Hut (CiTG), Ilke Ercan (EEMCS) and others we use Jupyter Book to enable students and researchers to collaboratively develop interactive, version-controlled outputs that can be published simultaneously as a website and a PDF (as exemplified by this document). In doing so, the {abbr}`JBOSS (Jupyter Book Open Science)`-project contributes to a reproducible and transparent research workflow, lowering the threshold for making data and code openly available. Beyond individual projects, the ambition is to develop an infrastructure - through templates, manuals, and integrations - that supports both educational and research publishing. In this way, JBOSS acts as a bridge between open education and open science, enabling shared workflows and fostering a culture of openness across teaching and research. By introducing early-career researchers (students) to these practices, we contribute to embedding open science principles in the next generation of scientists. Importantly, this is no longer merely a vision but a demonstrated workflow: although still in its infancy, it is already being used by students with ease.
 
 
-````{figure}
-:class: grid grid-cols-2 items-end gap-4
-
-```{figure} ../figures/cover_template_Page_1.png
-:width: 100%
-
-Coverpage
-```
-```{figure} ../figures/cover_template_Page_2.png
-:width: 100%
-
-Titlepage
-```
-An impression of the Typst Thesis Template that was developed in the {abbr}`JBOSS (Jupyter Book Open Science)`-project.
-````
-
-
 `````{figure}
 :label: fig_typst_template_preview
 :class: pull-up

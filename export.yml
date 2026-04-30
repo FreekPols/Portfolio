@@ -8,7 +8,7 @@ project:
     - id: report_typst
       format: typst
       template: https://github.com/mmtop/myst_typst_V1/archive/refs/heads/candidate-v0.2.0.zip
-      output: exports/report_typst.pdf
+      output: exports/visionstatement.pdf
 
 # Template options for Typst export
       show_cover_full: true

@@ -144,7 +144,7 @@ project:
 
       ## Optional title-page notes:
       show_title_page_cover_description: true
-      title_page_cover_description: The cover image is taken by Freek Pols.
+      title_page_cover_description: The cover image is taken by Freek Pols. It represent learning and teaching physics, as well as a strong connection with publishing of educational materials.
       show_title_page_confidentiality_statement: false
       title_page_confidentiality_statement: This thesis is confidential and cannot be made public.
 

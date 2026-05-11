@@ -1,0 +1,103 @@
+/* Written by MyST v1.8.3 */
+
+#import "myst-imports.typ": *
+#import "@preview/wrap-it:0.1.1": wrap-content 
+
+= Research
+
+== Research line into the integration of argumentation in science \& engineering education <res_gen>
+
+Argumentation is at the core of scientific practice. It is the means by which scientists construct, justify, and communicate knowledge, ensuring that claims are rigorously tested and defended. From formulating hypotheses to interpreting data, from engaging in peer review to debating theoretical frameworks, argumentation permeates every aspect of scientific inquiry. Without it, science would not function as a self-correcting, evidence-based discipline.
+
+The Toulmin model of argumentation #cite(<Toulmin2003>) has been widely used to describe the structure of arguments. It emphasizes key components such as _claims_, _warrants_, and _backings_, which form the foundation of a cogent scientific argument. However, scientific argumentation is more than just a method of presenting findings in a scientific journal in which all elements of the Toulmin argumentation are recognizable. Argumentation is an essential cognitive process in conducting research, the crucial element in the entire scientific endeavour. A scientific investigation does not merely seek to gather data\; it aims to construct a compelling and well-supported claim based on that data. This requires reasoning systematically, evaluating alternative explanations, and providing justification for methodological choices.
+
+Scientific argumentation thus plays a fundamental role in science, especially in inquiry and in engineering design. In the process of conducting research and designing technological solution, scientists and engineers do not passively record observations or build prototypes from scratch\; they actively engage in constructing an argument that supports their conclusions/solution. This involves critically assessing evidence, scrutinizing methodologies, weighing pros and cons for different solutions to each problem they have to tackle or decision they have to make, and anticipating potential counterarguments.
+
+In education, fostering argumentation skills is crucial for developing students' ability to engage in scientific reasoning. Research shows that many students view scientific inquiry as a mechanical process of following procedures rather than as a means of constructing and defending knowledge #cite(<millar1997student>). By integrating argumentation into science curricula, educators can shift students' perspectives, helping them understand that science is about producing the most reliable and defensible answers to research questions rather than merely completing experiments.
+
+However, many studies relating to argumentation in science education focus primarily on the structure of the argument (e.g. identifying claims, warrants and backings) rather than looking at the content itself - the scientific cogency of the argument: what arguments are used as backing, what is the quality of the evidence, and how do students decide what data to collect and how to interpret these. However, if we want to teach students (at whatever level) how to setup a rigorous scientific inquiry or design a durable and long-lasting solution to a technical problem, we need to go beyond the structure of the argument. We need to understand how students make decisions throughout the research and design process, what knowledge they use to justify their choices, and how they can be supported in developing a more sophisticated understanding of scientific practices.
+
+My PhD research focused on integrating argumentation into scientific inquiry education at the secondary school level #cite(<pols2023development>). Building on this work, my current and future research aims to further explore the integration of argumentation in both scientific inquiry and engineering design education. The goal is to develop theoretical frameworks and practical teaching approaches that help students not only understand the structure of scientific arguments but also engage deeply with the content and reasoning processes that underpin scientific research and engineering design. To further elaborate on what this entails, I provide two sections below that outline the research directions in scientific inquiry and engineering design education, respectively.
+
+#show figure: set block(breakable: breakableDefault)
+#figure(
+  image("files/Toulmin_PACKS-83bdeabb877add5bf4bf60ee57fb8043.jpg", width: 100%),
+  caption: [
+The Toulmin argumentation model integrated with the PACKS model, linking argumentation elements to types of knowledge required for scientific research.
+],
+  kind: "figure",
+  supplement: [Figure],
+) <fig_toulmin_packs>
+
+=== Integration of argumentation and scientific inquiry <argumentation_si>
+
+Enabling students to engage in basic scientific research is an important component of the curriculum in secondary and higher education \[ REF \]. However, literature indicates that meaningfully implementing this (developing research skills and knowledge in students) is only minimally successful \[ REF \]. In my PhD research, we have taken steps to address this issue #cite(<pols2023development>). We have demonstrated that argumentation is an indispensable but underemphasized aspect of education in scientific research. We also demonstrated that a focus on argumentation (viewing research as the construction of a scientifically convincing claim) leads students to develop a need for research knowledge, as they recognize that only the best answer to the research question suffices #cite(<pols2023integrating>).
+
+By defining 'research' as _the construction of the most convincing possible answer to a given question_, it is no longer sufficient for a student to merely apply the correct theory and perform methodologically sound procedures. The development of such routines remains important, but the didactics must also ensure that the student is continuously aware of the nature and purpose of the research activity. This means that the student makes decisions and choices that are rationally justifiable as they lead to optimally valid and reliable research outcomes within the given contextual constraints. This perspective on a 'research learning trajectory' requires the development of didactics that span from students' first encounter with scientific research to full-fledged independent physical research.
+
+At the end of my dissertation, an extensive theoretical model is developed (see #link(<fig_toulmin_packs>)[Figure~1]). This model appears to be useful for further integrating argumentation and research, it links the Toulmin argumentation model #cite(<Toulmin2003>) with the Procedural and Conceptual Knowledge in Science (PACKS) model #cite(<Millar1994>). While the Toulmin model describes the elements of an argumentation structure, the PACKS model outlines the different types of knowledge required to define the content of those elements. This theoretical model needs further elaboration and substantiation. This will be achieved through a theoretical paper with an extensive literature review, in which:
+
++ the necessity of integrating argumentation and research will be further argued,
++ the theoretical model will be expanded, and
++ its practical implementation (along with the associated implications for education) will be developed.
+
+Various follow-up studies have been proposed in the dissertation that require further elaboration:
+
+- If research knowledge is developed in physics education, to what extent is this knowledge relevant in other subjects, and how can we facilitate this knowledge transfer?
+- What knowledge do teachers actually need, and how can we optimally train them to teach research skills? In collaboration with TUD's teacher education program, particularly within master's research projects, various studies are and will be conducted to address these questions.
+
+Funding for ongoing research is being sought through one of the NRO calls for long-term research.
+
+#pagebreak()
+=== Integration of argumentation in engineering design <argumentation_ed>
+
+Engineering Design (ED), the systematic and creative process of devising and constructing solutions for a specific problem, is a key component in STEM education #cite(<NRC2012>) #cite(<Vossen2019>) and is integrated in the intended learning outcomes of all Dutch secondary science subjects #cite(<SLO2020>). ED is mainly meant to:
+
+- develop conceptual knowledge, strengthening (theoretical) subject matter taught through direct instruction #cite(<Stammesthesis>)\;
+- develop design and research practices, learning how an iterative process of thinking and tinkering may yield a prototype that solves the problem and suits the needs #cite(<Cunningham2009>) #cite(<Fan2017>) #cite(<Kolodner2003>).
+
+Engaging secondary school students in ED can enhance their real-world problem solving skills #cite(<Fortus2005>), foster interest in engineering careers #cite(<Reynolds2009>), and provide illustrative preparation of and lay foundational groundwork for tertiary engineering education. Although it plays a central role in science curricula #cite(<NRC2012>) #cite(<Feder2009>) #cite(<Pieters2022>) and has a (potential) function in education, the teaching and learning of ED is problematic in various ways and the development of pedagogical approaches for ED fails to match EDs importance #cite(<vDooren2020>). Students – at all levels – often struggle with ED when prerequisite design knowledge is not identified and developed timely. They tend to focus exclusively on the first idea that comes to mind without considering alternatives – known as design fixation #cite(<Jansson1991>). Once the design is fully developed and a prototype built, the design choices are justified in retrospect (post hoc), only because assessment procedures demand it. Proper ED, however, requires that conscious, deliberate choices are made throughout the design process in order to justify the design #cite(<Kuik2024>). Instead, as an expert design teacher stated: "We seem to teach our students how to come up with rationales for their designs on the spot."
+
+One of the main problems is that ED is often taught by educators with limited design experience (pre-tertiary level) or by design experts (tertiary level) who frequently lack pedagogical training or possess only implicit understanding of the practices and knowledge they apply #cite(<Lawson2006>) #cite(<vDooren2020>). This dichotomy hinders effective teaching, leading some teachers to skip ED altogether, or to present it as an undifferentiated whole, rather than addressing specific aspects before applying them in an integrated manner #cite(<Stammesthesis>). Hence, for teaching ED at all levels a theoretical framework is essential for elucidating the intricacies of engineering design, explicating the requisite knowledge, and optimizing instructional approaches. In the related field of teaching scientific inquiry, a sequenced, argumentation focused (knowing what, knowing how, and knowing why) approach yielded an enhanced understanding of scientific practice and encourages students to develop personal reasons for adhering to scientific criteria #cite(<pols2023development>). I see opportunities for extending this approach to ED pedagogy and 'uncover' the yet underexplored area of integrating argumentation and ED.
+
+ED, although often seen as particularly a creative discipline, should be considered a knowledge based activity, where more pertinent knowledge leads to better solutions. As in scientific inquiry, I believe that it should be possible to create a procedural and conceptual knowledge in science (PACKS) model that distinguishes different knowledge types that inform the decisions taken in various stages #cite(<Millar1994>). Unravelling the knowledge types allows to teach these in (mere) isolation - reducing and focussing the cognitive demand - before integrating these. These knowledge types include the idea that only the best solution (in the given circumstances) suffices, and understandings of what characterizes solutions that engineers regard as 'best', what understandings contribute to that evaluation, and how those solutions can be produced. Without these understandings, students may regard ED as 'find a solution to the design problem, any solution will do' prevents students from adopting and adhering to the norms and standards designers apply in their work.
+
+#pagebreak()
+These knowledge types are not yet identified for ED and thus need an elaborate theoretical framework that elucidates the intricacies of engineering design. Using the central questions:
+
+- What are the understandings required to successfully design, conduct, and evaluate an engineering design?
+- What are the characteristics of a valid, reliable, sufficiently specific, and detailed assessment of students' understanding in engineering design?
+
+I aim to construct a theoretical framework, (PACKED-model) that links the various knowledge types to the stages of the design process. I aim to derive a tentative set of knowledge types using literature- and field studies. Using these knowledge types, we can derive so-called field-dependent elements #cite(<Toulmin2003>), which are the standards for judging the soundness, validity, cogency or strength of arguments. To propose, validate and test an approach to derive the presence and attainment level for these understandings, I will adapt the modified Delphi approach #cite(<Hsu2007>) as used in #cite(<pols2022defining>, form: "prose").
+
+Subsequently, using the central question: _How does the theoretical framework and a focus on argumentation facilitate teachers to design ED teaching-materials?_ I aim to involve secondary school pre-service teachers in our teacher-education program and in-service teachers in a professional learning community #cite(<DuFour2004>) to use the theoretical construct and derive design principles to design teaching materials and test these in their own practices. Using education design research #cite(<Akker2006>), we can investigate the teacher's use of the framework and its facilitation in designing lessons. The developed materials will ultimately be arranged in a coherent teaching-learning sequence, where the need for integrating argumentation and ED is emphasized: each and every design decisions should be justifiable in light of producing the best available solution within certain practical constraints (finance, time, knowledge).
+
+Again, a study of this nature and size requires long-term funding, which is being sought through one of the NRO calls for long-term research. However, unlike traditional applied physics research, physics education research does not typically fall within the scope of major research grants that provide long-term funding for doctoral candidates. There are research grants for education, but these foremost are focussed on education in general - resulting in a very divers field of applicants and reviewers (not aware of the issue in a specific educational domain). Moreover, teaching 6–8 day parts per week, being heavily involved in the new building, and serving on various committees at both local and national levels have limited the time available to focus on research. Despite these constraints, I have actively pursued funding opportunities to continue the research as outlined above. I have shown that with limited resources, I still can continue doing research on physics and engineering education #cite(<de2025exploring>) #cite(<pols2024redesigning>).
+
+== Supervising <supervising>
+
+As a faculty member in Applied Physics with a research focus on physics education, my work bridges the gap between fundamental physics and the scholarship of teaching and learning. My research aims especially on enhancing physics education by integrating inquiry learning, argumentation, and conceptual understanding into instructional practices.
+
+Given the structural realities of education research - the limited financial resources available, I now build research capacity through mentoring, collaboration, and embedded research. For instance, in addition to my own research endeavors, I (try to) play a role in supporting #link(<pub_with_colleagues>)[assistant/associate professors and colleagues] who wish to investigate their own teaching practices. Moreover, #link(<pub_with_students>)[several papers] have been written with students on their projects done in the first year physics lab course, allowing them to gain some experience in the publishing process. Through educational grants, which often focus on curriculum innovation rather than dedicated research positions, I help guide and supervise projects that lead to meaningful educational advancements. These grants provide faculty members the opportunity to develop and implement educational innovations, and I contribute by offering expertise, mentoring, and collaborative support to ensure their success.
+
+Recently Rutger Ockhorst has started his PhD research on 'characteristics of a quantum mechanics teaching activity fostering a _need to know_ in students'. We  have been working towards this start since 2023, where funding was sought for his project. During this initial phase, we have done several smaller studies resulting in two professional papers (see #link(<pub_with_ock>)[Appendix B]). In the next years he will focus on the development of a quantummechanics activity, most likely an experiment that is linked to the work and experiments done in QTech, that shows the particle and wave behavior of electrons. In both secondary and tertiary education, this dual nature of electrons are taken for granted - students seem hardly puzzled about it where physicists are. This project will investigate what the characteristics of such an activity are in order to be successful and whether it is feasible to transform an experiment done in QTech or QuantumNanoscience to an educational setting.
+
+#let body = [
+== Review <res_rev>
+
+I have been actively involved in review work for scientific journals (#link("https://journals.aps.org/prper/")[PRPER]), professional journals (#link("https://iopscience.iop.org/journal/0031-9120")[phys. ed.] for which I am an IoP's trusted reviewer.), conference proposals and proceedings (#link("https://www.girep.org/")[GIREP]), and Dutch research proposals (#link("https://www.nro.nl/onderzoeksprogrammas/scholarship-of-teaching-and-learning-sotl-beurs")[SoTL] \& #link("https://www.nro.nl/calls/kennis-voor-onderwijs-van-de-toekomst-klein")[NRO klein]) \& TUD OESF. Furthermore, for the NRO's Scholarship of Teaching and Learning, I lead a TUD review committee to support teacher who applied for the NRO grant "scholarship of teaching and learning (SoTL)".]
+
+#let fig = [
+#figure(
+  image("files/iop-9d54f64eb6457b1d802766bd4d3cd4f2.PNG", width: 4cm),
+  caption: [#link("https://accreditations.ioppublishing.org/cddd8ece-c4ab-4fa8-836f-04381bd95a7e#acc.b9kdGBu8")[Certificate of IoP's trusted reviewer.]
+],  kind: "figure",
+  supplement: [Figure],
+) <fig_review>
+]
+
+#wrap-content(fig, body, align: right, column-gutter: 0.5cm)
+
+== Reflection <res_refl>
+
+I believe that the above illustrates that I found a niche in research that is worthy and interesting to pursue. I want to dedicate the next years to further develop this research line, and to contribute to the field of physics education research - at both secondary and tertiary level. Although I have not had the opportunity to formally supervise PhD students fully yet, I am actively involved in mentoring and guiding researchers in this domain. Moreover, I am recognized and frequently consulted by colleagues and editors to review educational research proposals and manuscripts. Taken together, I am confident that I can make meaningful contribution to the research as well as serve our university by disseminating this knowledge to our students and colleagues.

@@ -71,4 +71,4 @@ A selection of papers co-authored with students.
 
 2025 Master Thesis Marcel Claus: Remediëring van wiskundige vaardigheden bij natuurkunde
 
-2025 Master Thesis Mila Dobrovinski
+2025 Master Thesis Mila Dobrovinski: De rol van autonomie bij het stimuleren van intrinsieke motivatie

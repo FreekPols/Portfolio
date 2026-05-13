@@ -6,7 +6,7 @@
 
 === Educational papers (international) <int_ed_pap>
 
-A detailed list of educational publications with abstracts is available #link("https://polslab.tnw.tudelft.nl/index.php?page=Publications")[here].
+A detailed list of educational publications with abstracts is available #link("https://polslab.tnw.tudelft.nl/index.php?page=HighPubl")[here].
 
 - #cite(<pols2024vitruvian>, form: "prose") _The Vitruvian man: An introduction to measurement and data analysis_
 - #cite(<pols2024scientific>, form: "prose") _The scientific graphic organizer for lab work_
@@ -59,26 +59,18 @@ A detailed list of Dutch publications with abstracts is available #link("https:/
 
 === Software \& Educational tools <software>
 
-- #link("https://teachbooks.io")[Teachbooks] \
-A platform with an extensive start template allowing teachers to easily create their own educational resources.
-- #link("https://github.com/myst-templates/plain\_typst\_book")[plain\_typst\_template] \
-A minimal Typst book template for Jupyter Book users, allowing users to create a high-quality PDF version of their Jupyter Book content using Typst.
-- #link("https://jboss.tudelft.nl/templates/typst")[typst\_thesis\_template] \
-A template for master thesis using Typst with Jupyter Book.
-- #link("https://jboss.tudelft.nl/templates/latex")[latex\_thesis\_template] \
-A template for master thesis using LaTeX with Jupyter Book.
-- #link("https://jboss.tudelft.nl/starterkit")[Starterkit] \
-A starterkit which provides students a headstart in writing and organizing their thesis project.
-- #link("https://github.com/jupyter-book/myst-plugins/")[Myst plugins] \
-This repro where plugins that extend the features of Jupyter Book was initiated by me. Several plugins were developed. Notably the last\_updated\_page, a plugin that shows when the page was last updated, is well appreciated and used in several projects.
-- #link("https://jupyterbook.org")[Jupyter Book] \
-I contribute to the documentation of the Jupyter Book project. I created the gallery, made several edits and wrote the section on #link("https://mystmd.org/guide/deployment-gitlab")[gitlab and gitlab pages].
-- #link("https://jupyter-book.github.io/workshop-template/")[Tutorial] \
-Together with Jim Madge (the turing way) and Robert Lanzafame we created a Jupyter Book workshop which can be used for training purposes and is an easy entrance to Jupyter Book projects.
+- #link("https://teachbooks.io")[Teachbooks] A platform with an extensive start template allowing teachers to easily create their own educational resources.
+- #link("https://github.com/myst-templates/plain\_typst\_book")[plain\_typst\_template] A minimal Typst book template for Jupyter Book users, allowing users to create a high-quality PDF version of their Jupyter Book content using Typst.
+- #link("https://jboss.tudelft.nl/templates/typst")[typst\_thesis\_template] A template for master thesis using Typst with Jupyter Book.
+- #link("https://jboss.tudelft.nl/templates/latex")[latex\_thesis\_template] A template for master thesis using LaTeX with Jupyter Book.
+- #link("https://jboss.tudelft.nl/starterkit")[Starterkit] A starterkit which provides students a headstart in writing and organizing their thesis project.
+- #link("https://github.com/jupyter-book/myst-plugins/")[Myst plugins] This repro where plugins that extend the features of Jupyter Book was initiated by me. Several plugins were developed. Notably the last\_updated\_page, a plugin that shows when the page was last updated, is well appreciated and used in several projects.
+- #link("https://jupyterbook.org")[Jupyter Book] I contribute to the documentation of the Jupyter Book project. I created the gallery, made several edits and wrote the section on #link("https://mystmd.org/guide/deployment-gitlab")[gitlab and gitlab pages].
+- #link("https://jupyter-book.github.io/workshop-template/")[Tutorial] Together with Jim Madge (the turing way) and Robert Lanzafame we created a Jupyter Book workshop which can be used for training purposes and is an easy entrance to Jupyter Book projects.
 
 === Grants \& Applications <grants>
 
-#tablex(columns: 5, header-rows: 1, repeat-header: true, ..tableStyle, ..columnStyle,
+#tablex(columns: (.4fr,1.5fr,1.5fr,.55fr,.55fr), header-rows: 1, repeat-header: true, ..tableStyle, ..columnStyle,
 [
 Year
 ],
@@ -383,7 +375,7 @@ V
 2026
 ],
 [
-Connecting open science and open education through digital interactive, executable narratives
+*Connecting open science and open education through digital interactive, executable narratives*
 ],
 [
 NWO
@@ -392,6 +384,6 @@ NWO
 V
 ],
 [
-?
+V
 ],
 )

@@ -9,7 +9,15 @@ I think one of my first experiences with teaching is instructing sailing at an a
 
 Recognizing that I probably had not yet reached my full potential and wishing to set an example for my pupils that learning is a lifelong journey, I applied for the #link("https://www.nwo.nl/onderzoeksprogrammas/promotiebeurs-voor-leraren")[NWO Doctoral Grant for Teachers]. This grant was awarded in 2014, allowing me to do a PhD. study (0.4 FTE - 5 years) on teaching scientific inquiry in physics #cite(<pols2023development>).
 
-In 2019 I switched from secondary education to university and became the coordinator of the First Year Physics Lab Course (FYPLC) with the task to innovate this course.
+#let fig = [#figure( 
+image("files/fyplc-f3ee70966c001ebb20954137e2908f3b.jpg",  width: 6cm) ,
+caption: [Students working in the First Year \ Physics Lab Course on the new \ experiment to determine the gravitational \ acceleration _g_ with 0.1% accuracy.],
+  kind: "figure",
+  supplement: [Figure],
+) <fig_fyplc>
+]
+
+#let body = [In 2019 I switched from secondary education to university and became the coordinator of the First Year Physics Lab Course (FYPLC) with the task to innovate this course.
 
 == Innovating lab courses <labcourseinnovation>
 
@@ -17,7 +25,10 @@ In 2019 I started my position at TU Delft as a lecturer/innovator (docent 2) of 
 
 The first-year physics lab course (TN1405, 6 ECTS) was largely unchanged from its format in 2004 when I took the course as a first-year student. The course had run more or less the same for 40 years and was not much appreciated in the last two decades.
 
-The course that was taught to third year minors (TN2985 - 2 ECTS) was an almost one-on-one translation of the first year course and was not much appreciated by the students.
+The course that was taught to third year minors (TN2985 - 2 ECTS) was an almost one-on-one translation of the first year course and was not much appreciated by the students.]
+
+#wrap-content(fig, body, align: right, column-gutter: .5em)
+
 
 The assignment given by Prof. Chris Kleijn (then program director) had three objectives:
 
@@ -35,43 +46,35 @@ To summarize, the main changes in the FYPLC that were implemented are:
 - Introduction of a final exam covering Python, data analysis, measurement and uncertainty.
 - Implementation of blended learning, reducing contact hours by 50% and allowing students to prepare at home.
 - Digitization and automation of administrative tasks, enabling TAs to manage attendance and grading independently.
-- Complete revision of the #link("https://contemporary-physicslab.github.io/NP-new-style/main/toc.html")[labcourse manual] (twice), with links to lectures, assignments, interactive quizes and activities etc. #footnote[we are frontrunners in using online interactive labcourse manuals, based on our approach and ideas various universities have adopted this way of working.]
+- Complete revision of the #link("https://contemporary-physicslab.github.io/NP-new-style/main/toc.html")[labcourse manual] (twice), with links to lectures, assignments, interactive quizzes and activities etc. #footnote[we are frontrunners in using online interactive labcourse manuals, based on our approach and ideas various universities have adopted this way of working.]
 - Revision of grading rubrics.
 
-#pagebreak()
+A new program was developed for the minor course. Students now enjoy significant flexibility, both in progressing at their own pace (for Python and report writing) and in choosing experiments. As a result, student satisfaction increased from 5.7 (2019) to 8.0 (2020) to 8.2 (2021) and 8.4 (2025).
 
-#let fig = [#figure(
-image("files/fyplc-f3ee70966c001ebb20954137e2908f3b.jpg", width: 8.5cm) ,
-caption: [Students working in the First Year Physics Lab Course \ on the new experiment to determine the gravitational \ acceleration _g_ with 0.1% accuracy.],
-  kind: "figure",
-  supplement: [Figure],
-) <fig_fyplc>
-]
-
-
-#let body = [A new program was developed for the minor course. Students now enjoy significant flexibility, both in progressing at their own pace (for Python and report writing) and in choosing experiments. As a result, student satisfaction increased from 5.7 (2019) to 8.0 (2020) to 8.2 (2021) and 8.4 (2025).
-
-Note that a 6-ECTS practicum with around 240 students and a parallel course with 30-50 students with two experiments in two weeks cannot function without TAs. Major changes have been implemented here as well: Active recruitment has been established based on performance, engagement, and interest during the academic year. Efforts have also been made to retain TAs longer, partly through specialized ITAV training and targeted professional development. But also by granting them greater agency and responsibility, and by creating a supportive and inclusive TA environment. The total number of TA hours was reduced by scaling up, conducting the same experiments in a studio classroom, and designating one day for centralized (online) instruction (resulting in a yearly cost reduction of $tilde$30k€ ($tilde$25%)).]
-
-#wrap-content(fig, body, align: right, column-gutter: .5em)
+Note that a 6-ECTS practicum with around 240 students and a parallel course with 30-50 students with two experiments in two weeks cannot function without TAs. Major changes have been implemented here as well: Active recruitment has been established based on performance, engagement, and interest during the academic year. Efforts have also been made to retain TAs longer, partly through specialized ITAV training and targeted professional development. But also by granting them greater agency and responsibility, and by creating a supportive and inclusive TA environment. The total number of TA hours was reduced by scaling up, conducting the same experiments in a studio classroom, and designating one day for centralized (online) instruction (resulting in a yearly cost reduction of $tilde$30k€ ($tilde$25%)).
 
 
 === CI/CD <ci-cd>
 
-With the renewed physics curriculum of 2025, the FYPLC has been further adapted. Rather than one lab course, it now consist of two courses of 5 ECTS each, one in the first quarter and one in the second quarter. The first course was directly adopted from the previous FYPLC, no adjustments were needed. The second course, however, was redesigned to better align with the content of the second quarter (thermodynamics). Together with Roel Smit we designed nine laboratory activities and ten thermodynamic simulations aiming to develop better understanding of thermodynamic concepts at the macroscopic level through a focus on microscopic particle behavior, as seen in #link(<fig_deeltjes>)[Figure~2].
+#let body = [With the renewed physics curriculum of 2025, the FYPLC has been further adapted. Rather than one lab course, it now consist of two courses of 5 ECTS each, one in the first quarter and one in the second quarter. The first course was directly adopted from the previous FYPLC, no adjustments were needed. The second course, however, was redesigned to better align with the content of the second quarter (thermodynamics). Together with Roel Smit we designed nine laboratory activities and ten thermodynamic simulations aiming to develop better understanding of thermodynamic concepts at the macroscopic level through a focus on microscopic particle behavior, as seen in #link(<fig_deeltjes>)[Figure~3].
 
+The development of this second course is still ongoing. Based on the first iteration, we have identified several pitfalls and areas for improvement. For instance, we noted students' reliance on genAI necessitating us to rethink how we provide and assess our labs. We currently transform some of the lab descriptions to a format that I developed #cite(<pols2019scientific>) #cite(<pols2024scientific>). ]
+
+#let fig = [
 #show figure: set block(breakable: breakableDefault)
 #figure(
-  image("files/deeltjes-d7bb518cfd5ddcaaa6ca8ca19ae93071.png", width: 70%),
+  image("files/deeltjes-d7bb518cfd5ddcaaa6ca8ca19ae93071.png", width: 100%),
   caption: [
 One of the simulations students have to develop where they compare Brownian motion of gas particles (red and blue) to a single heavier atom (black dot). The trajectories of a single light and the heavy particles are shown. Note that the full animation can be seen online only.
 ],
   kind: "figure",
   supplement: [Figure],
 ) <fig_deeltjes>
-\
+]
+#wrap-content(fig, body, align: right, column-gutter: .5em)
 
-The development of this second course is still ongoing. Based on the first iteration, we have identified several pitfalls and areas for improvement. For instance, we noted students' reliance on genAI necessitating us to rethink how we provide and assess our labs. We currently transform some of the lab descriptions to a format that I developed #cite(<pols2019scientific>) #cite(<pols2024scientific>). The _scientific graphic organizer_#footnote[The SGO, originally designed for physics labs is now used throughout the Netherlands in physics, biology and chemistry. The AAPT publication #cite(<pols2024scientific>) was in the top 5 read articles of 2024, and we thus can assume it has an impact beyond the Netherlands.] can be regarded as a prestructured but simplified lab journal where all essential information is provided to produce a fair judgement of students' doing and learning in and from lab work, see #link(<fig_sgo>)[Figure~3]. Without a computer and access to ChatGPT students now have to consider themselves what they are doing and why in that particular way. Moreover, we hope that this way of working assessing students' understanding reduces the assessment load.
+The _scientific graphic organizer_#footnote[The SGO, originally designed for physics labs is now used throughout the Netherlands in physics, biology and chemistry. The AAPT publication #cite(<pols2024scientific>) was in the top 5 read articles of 2024, and we thus can assume it has an impact beyond the Netherlands.] can be regarded as a prestructured but simplified lab journal where all essential information is provided to produce a fair judgement of students' doing and learning in and from lab work, see #link(<fig_sgo>)[Figure~4]. Without a computer and access to ChatGPT students now have to consider themselves what they are doing and why in that particular way. Moreover, we hope that this way of working assessing students' understanding reduces the assessment load.
+
 
 #show figure: set block(breakable: breakableDefault)
 #figure(
@@ -122,8 +125,8 @@ This combination of expertise (physics and education) enables me to support coll
 Notably, this role also contributes to the broader educational program: several changes implemented in the First Year Physics Lab Course (FYPLC) have been adopted in other courses, particularly Design Engineering for Physicists (DEF) and the second-year physics lab course. In this way, my position at the intersection of content and pedagogy enables me to contribute not only to individual courses, but also to the coherence and development of the curriculum as a whole.
 
 #figure(
-  image("files/wnd.JPG",  width: 10cm),
-  caption: [Freek engaging ~200 physics teachers in the Vetruian Man activity, see @doi.org/10.1119/5.0149407],
+  image("files/wnd.JPG",  width: 80%),
+  caption: [Freek engaging ~200 physics teachers in the Vitruvian Man activity, see @pols2024vitruvian],
   kind: "figure",
   supplement: [Figure]
 )

@@ -4,8 +4,6 @@
 
 == Research
 
-A selection of relevant research outputs supporting ...
-
 === Scientific publications <research_ouput>
 
 A detailed list of scientific publications with abstracts is available #link("https://polslab.tnw.tudelft.nl/index.php?page=Publications")[here].
@@ -22,8 +20,6 @@ A detailed list of scientific publications with abstracts is available #link("ht
 
 === Publications with colleagues <pub_with_colleagues>
 
-A selection of papers co-authored with colleagues on education.
-
 - #cite(<bouwman2026themepark>, form: "prose") _Coherent teaching of mechanics with a theme park physics project_
 - #cite(<docter2026electronic>, form: "prose") _It's all about the BASICs: A framework for a minds-on electronic course_
 - #cite(<pols2024eenvoudig>, form: "prose") _Eenvoudig online boeken maken met Jupyter Book_
@@ -38,8 +34,6 @@ A selection of papers co-authored with colleagues on education.
 
 === Publications with students <pub_with_students>
 
-A selection of papers co-authored with students.
-
 - #cite(<pols2021students>, form: "prose") _Students' report on an open inquiry_
 - #cite(<pols2023radioactiviteit>, form: "prose") _De radioactiviteit van fruit_
 - #cite(<pols2020bouw>, form: "prose") _Bouw een demoproef_
@@ -48,10 +42,8 @@ A selection of papers co-authored with students.
 
 === Master thesis supervision <thesis>
 
-20XX Master Thesis Diana
+- 2024 Master Thesis Farah Kidwai: De SGO met perspectiefvragen - Een ontwerponderzoek naar het bevorderen van micro-macro denken in de scheikunde begripspracticumles
 
-2024 Master Thesis Farah Kidwai: De SGO met perspectiefvragen - Een ontwerponderzoek naar het bevorderen van micro-macro denken in de scheikunde begripspracticumles
+- 2025 Master Thesis Marcel Claus: Remediëring van wiskundige vaardigheden bij natuurkunde
 
-2025 Master Thesis Marcel Claus: Remediëring van wiskundige vaardigheden bij natuurkunde
-
-2025 Master Thesis Mila Dobrovinski: De rol van autonomie bij het stimuleren van intrinsieke motivatie
+- 2025 Master Thesis Mila Dobrovinski: De rol van autonomie bij het stimuleren van intrinsieke motivatie

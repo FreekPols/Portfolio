@@ -360,7 +360,7 @@
   let defense_date_text = no_break_string(defense_date)
 
   if degree != none and str(degree) != "" {
-    sentence = "to obtain the degree of " + degree_text
+    sentence = "in support of promotion to " + degree_text
   }
 
   if program != none and str(program) != "" {

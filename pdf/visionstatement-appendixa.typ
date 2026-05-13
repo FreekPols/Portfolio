@@ -4,13 +4,11 @@
 
 == Education
 
-Below is a selection of relevant elements supporting the ...
-
 === Courses <courses>
 
 #show figure: set block(breakable: breakableDefault)
 #figure(
-  tablex(columns: 5, header-rows: 1, repeat-header: true, ..tableStyle, ..columnStyle,
+  tablex(columns: (1fr, 1fr, .8fr, 1fr, 2fr), header-rows: 1, repeat-header: true, ..tableStyle, ..columnStyle,
 [
 Course code
 ],

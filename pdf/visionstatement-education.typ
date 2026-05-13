@@ -73,7 +73,7 @@ One of the simulations students have to develop where they compare Brownian moti
 ]
 #wrap-content(fig, body, align: right, column-gutter: .5em)
 
-The _scientific graphic organizer_#footnote[The SGO, originally designed for physics labs is now used throughout the Netherlands in physics, biology and chemistry. The AAPT publication #cite(<pols2024scientific>) was in the top 5 read articles of 2024, and we thus can assume it has an impact beyond the Netherlands.] can be regarded as a prestructured but simplified lab journal where all essential information is provided to produce a fair judgement of students' doing and learning in and from lab work, see #link(<fig_sgo>)[Figure~4]. Without a computer and access to ChatGPT students now have to consider themselves what they are doing and why in that particular way. Moreover, we hope that this way of working assessing students' understanding reduces the assessment load.
+The _scientific graphic organizer_#footnote[The SGO, originally designed for physics labs is now used throughout the Netherlands in physics, biology and chemistry. The AAPT publication #cite(<pols2024scientific>) was in the top 5 read articles of 2024, and we thus can assume it has an impact beyond the Netherlands.] can be regarded as a prestructured but simplified lab journal where all essential information is provided to produce a fair judgement of students' doing and learning in and from lab work, see #link(<fig_sgo>)[Figure~4]. Without a computer and access to ChatGPT students now have to consider themselves what they are doing and why in that particular way. Moreover, we hope that this way of working and assessing reduces the assessment load for both students and instructors.
 
 
 #show figure: set block(breakable: breakableDefault)
@@ -86,7 +86,7 @@ Some of the current labs are formatted in the SGO structure, a two page prestruc
   supplement: [Figure],
 ) <fig_sgo>
 
-Another key aspect we aim to further develop is the use of version control systems (e.g. Git). The importance of coding, simulations, and collaborative workflows in physics has increased significantly over the past decades. However, many researchers have not been formally trained in these practices, making it difficult for students to grasp the main ideas and workflows when they are most needed—during bachelor's and master's projects.
+Another key aspect we aim to further develop is the use of version control systems (e.g. Git). The importance of coding, simulations, and collaborative workflows in physics has increased significantly over the past decades. However, many researchers have not been formally trained in these practices, making it difficult for students to grasp the main ideas and workflows when they are most needed - during bachelor's and master's projects.
 
 Initial steps have been taken to introduce students to version control in this course, as addressing this early in their academic careers can help prevent common issues (challenges related to version control, data management, and maintaining an efficient and reproducible workflow) encountered later on. These aspects directly contribute to an essential component of our #link("https://www.tudelft.nl/en/open-science/about/strategic-plan")[university's open science vision] - which requires more explicit and structured integration within our educational programs. However, getting familiar with git is daunting and strategies to teach this effectively are limited. In the next two years we will further explore a feasible way to introduce git workflows further to students. An interesting observation is that our introduction of git in Q2 has already let to revised approaches in subsequent courses.
 
@@ -94,6 +94,8 @@ Initial steps have been taken to introduce students to version control in this c
 == Teaching in the teacher education program <teachereducation>
 
 I have been involved in the teacher-education program at TU Delft already for a long time. It started with teaching specialized topics as _labwork in science education_ and _the use of ICT in physics education_. 
+
+#v(-.5em)
 #let fig = [#figure(
   image("files/escaperoom-0d0b2c879e21da04e7bfa52b33b74506.jpeg", width: 90%),
   caption: [
@@ -126,7 +128,7 @@ Notably, this role also contributes to the broader educational program: several 
 
 #figure(
   image("files/wnd.JPG",  width: 80%),
-  caption: [Freek engaging ~200 physics teachers in the Vitruvian Man activity, see @pols2024vitruvian],
+  caption: [Freek engaging \~200 physics teachers in the Vitruvian Man activity, see @pols2024vitruvian .],
   kind: "figure",
   supplement: [Figure]
 )

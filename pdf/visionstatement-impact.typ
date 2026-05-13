@@ -12,6 +12,24 @@ My commitment to open pedagogy is reflected in my efforts to not only create ope
 
 At our university I initiated and participated in various initiatives to promote open pedagogy. For example, I contributed several times to the _TU Delft Education Day_, _TNW education day_ and several _events at the Teaching Lab_, e.g. #link("https://www.tudelft.nl/meet-eat-python4all-sharing-ideas-and-experiences-of-python-programming-at-introductory-level-24-october")[_Python4All_]. I also organized a TU Delft-wide day focused on #link("https://www.tudelft.nl/evenementen/2024/teaching-academy/python-in-teaching-14-march")[_Python for educators_], emphasizing the use of open tools and methods in teaching. I was part of the daily _PRIMECH_ board and continued fostering quality Engineering Education as member of the _PRIMECH advisory board_.
 
+#place(
+  top + right,
+  dx: 1.2cm, // push into the right margin
+  dy: 2cm,
+)[
+  box(
+    stroke: 1pt + gray,
+    inset: 6pt,
+    width: 3cm,
+  )[
+    #image("FP_edday.jpg", width: 100%)
+    Freek doing a workshop on the TU Delft education day
+  ]
+]
+
+
+
+
 In the _committee for the establishment of the Revising Academic Position Criteria report_ (resulting in #link("https://rrview.nl/documents/32021")[The Academic Development Guide]), I advocated for the recognition of the importance of open education in academic career paths#footnote[I have been asked to contribute to the development of the Academic Development Guide for all UD's, UHD's and Professors at TU Delft, replacing the Performance (WP) criteria. I was asked by the TU Delft Recognition \& Rewards Committee to act as an expert in focus groups and individual consultations – particularly for the result area Education and the Career Path with Emphasis on Education Handbook.]. Additionally, I participate in the _Open Interactive Learning Materials_ working group within TU Delft, focused on developing and promoting open learning materials and pedagogical approaches. In this committee we define policy and guidelines regarding open education (especially the publication of books and learning materials). Moreover, the committee is engaged in developing strategies, workshops and templates allowing educators to create open learning materials more easily. Recently I became part of the _Open Science Festival committee_, responsible for organizing the #link("https://opensciencefestival.nl/")[2026 Open Science Festival at TU Delft].
 
 I also contribute to #link("https://combine.tudelft.nl")[COMBINE], a Comenius initiative aimed at co-creating open learning materials with students. In this project I focus on the tools that allow both teachers and students to create interactive materials using Jupyter Book technology. Related to this, I am involved in the development of #link("https://teachbooks.io")[Teachbooks]. A TU Delft initiative easing the way how open textbooks are created. Involvement in these initiatives allows other to create shareable resources more easily, thereby promoting open pedagogy. With regards to the latter, the initiative was granted the #link("https://www.tudelft.nl/learningforlife/news-stories/artikelen/open-education-ambassador-awards-2026")[2026 TU Delft Open Education Inter-Faculty Team award].

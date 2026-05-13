@@ -9,6 +9,15 @@ My commitment to open pedagogy is reflected in my efforts to not only create ope
 ## Local
 At our university I initiated and participated in various initiatives to promote open pedagogy. For example, I contributed several times to the _TU Delft Education Day_, _TNW education day_ and several _events at the Teaching Lab_, e.g. [_Python4All_](https://www.tudelft.nl/meet-eat-python4all-sharing-ideas-and-experiences-of-python-programming-at-introductory-level-24-october). I also organized a TU Delft-wide day focused on [_Python for educators_](https://www.tudelft.nl/evenementen/2024/teaching-academy/python-in-teaching-14-march), emphasizing the use of open tools and methods in teaching. I was part of the daily _PRIMECH_ board and continued fostering quality Engineering Education as member of the _PRIMECH advisory board_. 
 
+````{aside} 
+```{figure} ../figures/FP_edday.jpg
+:label: fig_edday
+:width: 100%
+
+Freek doing a workshop on the TU Delft education day
+```
+````
+
 In the _committee for the establishment of the Revising Academic Position Criteria report_ (resulting in [The Academic Development Guide](https://rrview.nl/documents/32021)), I advocated for the recognition of the importance of open education in academic career paths[^RAPC]. Additionally, I participate in the _Open Interactive Learning Materials_ working group within TU Delft, focused on developing and promoting open learning materials and pedagogical approaches. In this committee we define policy and guidelines regarding open education (especially the publication of books and learning materials). Moreover, the committee is engaged in developing strategies, workshops and templates allowing educators to create open learning materials more easily. Recently I became part of the _Open Science Festival committee_, responsible for organizing the [2026 Open Science Festival at TU Delft](https://opensciencefestival.nl/). 
 
 [^RAPC]: I have been asked to contribute to the development of the Academic Development Guide for all UD’s, UHD’s and Professors at TU Delft, replacing the Performance (WP) criteria. I was asked by the TU Delft Recognition & Rewards Committee to act as an expert in focus groups and individual consultations – particularly for the result area Education and the Career Path with Emphasis on Education Handbook.

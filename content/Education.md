@@ -102,6 +102,13 @@ This combination of expertise (physics and education) enables me to support coll
 
 Notably, this role also contributes to the broader educational program: several changes implemented in the First Year Physics Lab Course (FYPLC) have been adopted in other courses, particularly Design Engineering for Physicists (DEF) and the second-year physics lab course. In this way, my position at the intersection of content and pedagogy enables me to contribute not only to individual courses, but also to the coherence and development of the curriculum as a whole.
 
+```{figure} ../figures/wnd.JPG
+:width: 100%
+:label: fig_wnd_vitr
+
+Freek engaging ~200 physics teachers in the Vetruvian Man activity, see @doi.org/10.1119/5.0149407
+```
+
 (visiononeducation)=
 ## Vision statement on education
 **Philosophy:** My philosophy in and on education is that I want students to develop (in a structured way) a sense of what (scientific) quality entails. For teaching in the first year physics lab course, this means that I want students to learn how to make well-considered choices throughout the research process. There is no single method in science, and there are no set procedures that always lead to the best result. The question at the core is *What decision leads to the best result in the given circumstances?* Hence, rather than telling students what to do - or let them following a recipe - they should consider the quality of their choices and actions throughout the process and, ultimately, be able to argue why their decision is defensible in light of the constraints at that specific moment in time. [^argumentation]
